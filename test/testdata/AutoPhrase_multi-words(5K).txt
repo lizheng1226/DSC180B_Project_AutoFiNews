@@ -1,0 +1,445 @@
+0.9732426608	information retrieval
+0.9604804260	knowledge management
+0.9603238838	relational databases
+0.9574050089	data mining
+0.9558563524	programming languages
+0.9547973376	relational database
+0.9547695491	natural language
+0.9546310404	web applications
+0.9536252711	petri nets
+0.9534849548	tcp ip
+0.9521724994	concurrency control
+0.9520866900	logic programming
+0.9512468794	programming language
+0.9498537595	data acquisition
+0.9495007194	database design
+0.9486736753	transaction processing
+0.9463732432	query language
+0.9447009427	machine learning
+0.9442934291	virtual reality
+0.9434791639	neural networks
+0.9418903191	data quality
+0.9414738774	artificial intelligence
+0.9408872756	data integration
+0.9393310908	database systems
+0.9387463111	semantic web
+0.9386813103	open source
+0.9379857622	distributed database
+0.9371151644	database management
+0.9364839555	modeling language
+0.9364729380	natural language processing
+0.9351686784	expert systems
+0.9323571508	database management systems
+0.9319626984	data structures
+0.9315508946	software development
+0.9300195708	object oriented
+0.9241592012	data management
+0.9227948136	data warehousing
+0.9155945282	world wide web
+0.9154648115	data warehouse
+0.9132098687	image registration
+0.9113327419	information technology
+0.8999390678	electronic commerce
+0.8988820258	information extraction
+0.8956674753	data modeling
+0.8922892923	business process
+0.8782087892	data model
+0.8695446994	knowledge discovery
+0.8681566497	user interface
+0.8677827568	active database
+0.8660305271	object database
+0.8649815662	moving objects
+0.8628540365	modern compiler
+0.8620670438	object oriented programming
+0.8508229520	query optimization
+0.8502522660	information systems
+0.8489886282	query processing
+0.8486413541	chance discovery
+0.8438221193	integrity constraints
+0.8398866807	logic programs
+0.8353572357	multidimensional databases
+0.8341445275	information modeling
+0.8340731718	case study
+0.8317946522	relational model
+0.8317870108	indexing techniques
+0.8292582745	multimedia databases
+0.8292102976	range images
+0.8278432537	theorem proving
+0.8254058998	management systems
+0.8204565696	multiple range images
+0.8155854331	temporal logic
+0.8126690054	human body
+0.8088483259	structured light
+0.8081966838	wide web
+0.8077300469	reference manual
+0.8040131414	data types
+0.7980407387	eine einführung
+0.7965542885	optical flow
+0.7958128323	range image registration
+0.7932015578	support systems
+0.7910568972	virtual environments
+0.7802917693	multiple range
+0.7753809750	e commerce
+0.7723983030	data models
+0.7712546249	based approach
+0.7697727564	high performance
+0.7682903589	iterative closest
+0.7645943259	image sequences
+0.7633442799	oriented database
+0.7611860434	object relational
+0.7552234971	agent based
+0.7527732869	oriented programming
+0.7502077372	surface model
+0.7488407982	data structure
+0.7487839922	object oriented database systems
+0.7486128024	range data
+0.7414181956	world wide
+0.7397552505	image based
+0.7351142086	component based
+0.7297025120	cardinality constraints
+0.7293045664	knowledge based
+0.7282904003	content based
+0.7224788503	object oriented databases
+0.7189506912	feature based
+0.7147471474	object oriented database
+0.7141303063	web based
+0.7065974514	motion estimation
+0.7039481875	multiple view
+0.7019759645	decision support
+0.7000514148	pose estimation
+0.6715657774	multi agent
+0.6704263189	web anwendungen
+0.6682769528	color images
+0.6536680385	c + +
+0.6451457225	model based
+0.6425754381	incomplete information
+0.6405010701	range image
+0.6288593722	free form
+0.6246209393	multi resolution
+0.6187710157	oriented database systems
+0.6179482056	view synthesis
+0.6151323050	body shape
+0.6139515252	graphics hardware
+0.6063532854	visual hull
+0.6036340738	image data
+0.5934059892	index structures
+0.5891850953	mesh model
+0.5812555782	ontology based
+0.5734612745	computer science
+0.5653937942	video sequences
+0.5536428198	object oriented database system
+0.5447832331	object oriented data
+0.5436362519	data sets
+0.5432667134	high level
+0.5367161032	second edition
+0.5356211608	multi camera
+0.5325719801	closest point
+0.5281375837	view stereo
+0.5232392329	high resolution
+0.5100785068	large scale
+0.5085569357	surface reconstruction
+0.5078616362	von web anwendungen
+0.5074540317	proposed method
+0.4994525138	compiler implementation
+0.4993016146	depth map
+0.4983721544	multiple views
+0.4902519394	real world
+0.4832999514	tcl and tk
+0.4806952696	paper describes
+0.4792756268	paper presents
+0.4761061624	surface normals
+0.4740176835	high quality
+0.4698758234	based systems
+0.4659802482	ground truth
+0.4514885064	surface normal
+0.4508056668	operating system
+0.4467708193	experimental results
+0.4457690351	an object oriented database
+0.4438709331	3rd edition
+0.4408143696	multi view
+0.4363361075	feature points
+0.4328663970	2nd edition
+0.4305137050	von web
+0.4108335040	paper proposes
+0.4008912377	für die
+0.3995672915	an object oriented
+0.3887061079	shape from shading
+0.3753626317	an overview
+0.3626895510	database system
+0.3475994665	synthetic and real
+0.3454656241	three dimensional
+0.3447270127	analysis and design
+0.3412954965	structure from motion
+0.3374971930	shape from silhouette
+0.3212566823	3 d
+0.3191920099	design and implementation
+0.3050963252	file system
+0.3011312705	real time
+0.2792564356	computer graphics
+0.2783680860	tla +
+0.2740227560	a survey
+0.2654168103	an approach
+0.2566871155	the proposed method
+0.2560516618	query processing in
+0.2549642794	an introduction
+0.2460384953	a unified
+0.2458154804	this paper presents
+0.2410446400	the relational model
+0.2318894193	surface reconstruction from
+0.2284031326	data mining for
+0.2281866024	information system
+0.2261430780	rather than
+0.2207035783	the world wide web
+0.2163193829	this paper describes
+0.2103706384	on line
+0.2092361037	a systematic
+0.1909867821	for object oriented
+0.1905716494	does not
+0.1886336491	into account
+0.1815839024	an application
+0.1813165522	modeling system
+0.1779157658	with respect to
+0.1761398099	images using
+0.1731651196	the performance of
+0.1689644628	this paper
+0.1626651196	the process of
+0.1619948818	computer vision
+0.1534938674	the java
+0.1529797981	new approach
+0.1467405686	the art
+0.1442291892	this chapter
+0.1439321756	as well as
+0.1403157447	an active
+0.1398445875	a new approach
+0.1390278852	the university of
+0.1368007812	able to
+0.1363448425	according to
+0.1356020259	the c
+0.1346600691	the effectiveness of
+0.1334814618	well known
+0.1320805780	do not
+0.1311155528	this book
+0.1259431811	3d face
+0.1155850420	based on
+0.1148317863	the case of
+0.1147375327	results show
+0.1145221457	in terms of
+0.1129080685	leads to
+0.1128211820	in order to
+0.1099175580	shape from
+0.1088514377	a language
+0.1079951134	3d video
+0.1068998910	3d range
+0.1063827673	3d reconstruction
+0.1046458172	new method
+0.1042735615	3d model
+0.1019217946	rely on
+0.1007087930	the presence
+0.0986641393	introduction to
+0.0983417715	such as
+0.0962339970	3d image
+0.0959830130	due to
+0.0938252868	an algorithm
+0.0928978772	the number
+0.0927755169	3d modeling
+0.0927421836	3d objects
+0.0914937346	a complete
+0.0883554412	3d shape
+0.0877457015	number of
+0.0861956969	reconstruction from
+0.0855629446	deal with
+0.0853962223	a single
+0.0852633161	not only
+0.0824407789	this method
+0.0822835838	focus on
+0.0811145836	of three dimensional
+0.0782056297	3d models
+0.0779054111	an important
+0.0771787033	3d surface
+0.0765963057	this problem
+0.0759453535	compared with
+0.0751814133	approach to
+0.0740516424	an efficient
+0.0740323204	a novel method
+0.0733270860	focuses on
+0.0729202548	of 3 d
+0.0721031108	3d object
+0.0720280428	a hierarchical
+0.0717479753	the design of
+0.0696123928	information from
+0.0689125733	obtained from
+0.0679523826	an object
+0.0675154342	presence of
+0.0674001811	derived from
+0.0662448297	a set of
+0.0661724486	framework for
+0.0658267358	a large number of
+0.0657219515	3d scanning
+0.0654979753	the number of
+0.0640776333	an initial
+0.0633482798	but also
+0.0628006268	the use of
+0.0621859519	the object
+0.0614001891	by means of
+0.0612882144	a formal
+0.0607077982	used to
+0.0606235378	the book
+0.0603777755	the surface of
+0.0599351920	obtained by
+0.0595510686	this work
+0.0581879006	the same
+0.0579513415	reconstruction of
+0.0576687433	a guide to
+0.0574541127	in addition
+0.0571406310	method for
+0.0567001668	novel method
+0.0566857118	compared to
+0.0563299052	a volumetric
+0.0559306959	to provide
+0.0555335001	by means
+0.0547862130	ability to
+0.0526206755	applied to
+0.0513032438	variety of
+0.0499532039	a 3d
+0.0483670520	the context of
+0.0480380274	consists of
+0.0470685968	the quality of
+0.0469852635	the accuracy of
+0.0469699375	a new method
+0.0468114964	the problem of
+0.0461799236	the next
+0.0452993942	the main
+0.0443612834	the author
+0.0426975128	to generate
+0.0421394199	registration of
+0.0416557680	the 3d
+0.0416519301	the construction of
+0.0405464561	the scene
+0.0404973873	a new
+0.0397337640	between two
+0.0396721576	a reference
+0.0392508529	tools for
+0.0392077610	capable of
+0.0391099572	coverage of
+0.0387981942	as well
+0.0386692810	set of
+0.0386588639	the original
+0.0385471741	the surface
+0.0383254132	an overview of
+0.0381794229	an image
+0.0378177316	shown to
+0.0378042461	system based on
+0.0377316724	tool for
+0.0376885492	algorithm to
+0.0374378134	the first
+0.0371164322	the basic
+0.0368640987	field of
+0.0368393685	to reduce
+0.0366790595	representation of
+0.0363839206	theory of
+0.0362375415	application to
+0.0359629493	estimation of
+0.0357046432	suitable for
+0.0356860846	a global
+0.0355975287	mapping of
+0.0354882610	representation for
+0.0352982735	related to
+0.0352811588	model of
+0.0352161450	a robust
+0.0349971130	in practice
+0.0347916286	used as
+0.0345562890	overview of
+0.0345426526	review of
+0.0345303492	algorithm for
+0.0342830368	support for
+0.0341200187	the need
+0.0339752098	recovery of
+0.0335206267	language for
+0.0333490877	notion of
+0.0333077197	a good
+0.0331531499	the proposed
+0.0330506268	the development of
+0.0329865934	a novel
+0.0329643685	to produce
+0.0328660163	a common
+0.0327852312	a system
+0.0326485610	a simple
+0.0325426526	combination of
+0.0324537637	study of
+0.0320405693	form of
+0.0320365282	model for
+0.0317630460	search for
+0.0315162070	an introduction to
+0.0311598017	the art of
+0.0307564925	to establish
+0.0305109066	guide to
+0.0299684862	the presence of
+0.0296351529	a variety of
+0.0296160163	the final
+0.0295132238	way to
+0.0294841862	technique for
+0.0294370480	a comprehensive
+0.0294051526	comparison of
+0.0293785609	a dynamic
+0.0288614614	role of
+0.0285435077	need to
+0.0276621121	survey of
+0.0274979753	the complexity of
+0.0273411126	a method for
+0.0270718193	understanding of
+0.0269653659	together with
+0.0268735040	analysis of
+0.0268719229	to use
+0.0268104308	a number of
+0.0266537637	power of
+0.0266135581	role in
+0.0265426526	concept of
+0.0264051526	class of
+0.0261875795	a system for
+0.0261146196	the last
+0.0259310365	state of
+0.0259015959	the corresponding
+0.0258405693	sequence of
+0.0254278391	to improve
+0.0254051526	position of
+0.0254027235	verification of
+0.0253542461	a framework for
+0.0249617770	the problem
+0.0248838871	to build
+0.0248668543	to solve
+0.0246468174	approach for
+0.0246120746	a method
+0.0245850629	possible to
+0.0244231591	to perform
+0.0241092611	modeling of
+0.0237410085	the design and
+0.0237031465	a small
+0.0236377059	a result
+0.0235245140	the internet
+0.0233620480	a wide
+0.0229731591	the literature
+0.0229027235	construction of
+0.0222821458	used for
+0.0222051526	evaluation of
+0.0221590303	to estimate
+0.0221504123	a large
+0.0218142027	to achieve
+0.0216731591	to determine
+0.0214537637	description of
+0.0214231591	to compute
+0.0208142027	to represent
+0.0203673069	architecture of
+0.0203668543	to create
+0.0196394199	implementation of
+0.0192360569	complexity of
+0.0181092611	design of
+0.0176286347	to find
+0.0174243349	necessary to
+0.0162673069	means of
+0.0155963793	accuracy of
+0.0153648702	system for
+0.0151743349	to make
+0.0147812862	a few
+0.0143175236	instead of
+0.0142269734	used in
+0.0098685838	use of

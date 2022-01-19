@@ -1,0 +1,4 @@
+{
+    "textfile": "test/testdata/right_text.txt",
+    "output_model": "test/testdata/word2vec.model"
+}

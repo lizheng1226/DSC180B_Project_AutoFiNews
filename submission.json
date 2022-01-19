@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "lizheng1226/dsc180_project_q1:latest",
+    "build-script": "python run.py test"
+}

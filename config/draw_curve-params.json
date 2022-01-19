@@ -1,0 +1,4 @@
+{
+    "df_curve": "test/testdata/autophrase_100_new.csv",
+    "output_fig": "test/testdata/Precision-Recall Curve.jpg"
+}

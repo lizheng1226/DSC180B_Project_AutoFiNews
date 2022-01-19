@@ -1,0 +1,101 @@
+,0,1
+113140,0.6657301108,der dynamischen
+154673,0.5722370009,usage control model
+186780,0.5041018558,points to analysis
+150107,0.5821652649,class conditional probabilities
+71160,0.7685959293,evaluation metrics
+114029,0.6636100084,geographic information system
+158363,0.5642851811,high computational costs
+159722,0.5613652812,transmission quality
+85343,0.7330321333,protein domain families
+146408,0.5900697382,set manipulation
+53480,0.8162094474,led array
+9204,0.9408446717,partitioned global address space
+20614,0.9066370623,backup routes
+4525,0.9580776849,operational semantics
+149059,0.5843904642,completely insecure
+117985,0.6540003004,sleep wake scheduling
+78347,0.7504589636,progressive decoding
+114777,0.661728235,language pair
+167731,0.5441513839,technical disciplines
+2071,0.9678336787,chesapeake bay
+159310,0.562264685,multilevel hypergraph
+127618,0.6321559031,major difficulties
+30514,0.8790016411,amino acid alphabet
+17268,0.9163165417,welded blanks
+153551,0.5747272756,estimating parameters
+23808,0.8973225844,fpga architectures
+132210,0.6216592049,automatically identifies
+164255,0.5515858071,attack surfaces
+46508,0.8361706432,boolean equation systems
+27130,0.8881298474,micropositioning stage
+66153,0.7817130916,scattering calculations
+57893,0.8037852587,cyclic scheduling
+14157,0.9253509301,shared dataspace
+159125,0.5626665563,frequently encounter
+11576,0.9331767628,tutte polynomials
+40334,0.8532320724,shop floor control
+178186,0.5220449276,grasping objects
+153558,0.5747070737,inductor less
+247,0.9783796657,nvidia cuda
+108061,0.6777657033,converges globally
+47887,0.8320958699,task partitioning
+86742,0.7296789037,discrete bit loading
+100359,0.6963950697,persistent csma
+16936,0.9172722907,musical genre classification
+33441,0.8713787646,intersection graphs
+8515,0.943111738,privacy violation
+30410,0.8792479896,surface orientation
+108626,0.6764236135,generative planning
+105236,0.684584987,adaptive critic design
+188248,0.5010553054,"0,1 ^ 2"
+141342,0.6011658063,diffusion effects
+180350,0.5177158573,extended targets
+11783,0.9325315381,computational photography
+153607,0.5745918321,software assistants
+90845,0.7192369737,active membranes
+90352,0.7205071169,hierarchical latent class models
+22841,0.9002172072,hebbian plasticity
+103895,0.687802184,minimum volume bounding
+124831,0.6383755105,actuated robots
+42264,0.8479420289,gaussian mixture modeling
+59643,0.7990652923,dual arm cluster tools
+155119,0.5712483826,6th conference
+5801,0.9529608399,number crunching
+137359,0.6101001949,shape orientation
+49117,0.8287013097,point sources
+86963,0.7291135185,transparent scan
+121578,0.6456142962,stereo image sequence
+103158,0.6895766202,virtual reality based
+132130,0.6218598993,sum power constraint
+184524,0.5088464058,effective feedback
+42495,0.8472993643,viscous compressible
+61550,0.7941518881,anomalous behaviour
+57897,0.8037786409,michigan style learning classifier
+28778,0.8837207531,man wan
+172152,0.5346281621,markerless human
+96625,0.7053030936,end user's
+6535,0.9502228583,loosely connected
+75703,0.7570667566,graph minor theory
+93295,0.7130778673,maximum weighted
+149246,0.5839496401,bluetooth connection
+7721,0.9460028965,dispersion compensation
+166225,0.5474204674,large data volume
+20350,0.907429518,acceptance rejection
+177945,0.5225159035,coordinated path following
+92590,0.714779123,cayley networks
+107457,0.6792567961,smil 2.0
+184618,0.5086672902,strict and weak
+39681,0.8549581036,surgical skills
+39327,0.8558481715,fundamental matrices
+170183,0.5389435848,| akj
+109331,0.6747444301,ein wissensbasiertes system zur
+107219,0.6798475285,interactive courseware
+39141,0.8563631924,eine empirische untersuchung
+75794,0.7568422145,body mounted
+87487,0.7278348356,permissible functions
+97156,0.70400591,segmentation method
+75606,0.7573227458,dynamic compensation
+40178,0.8536458158,group delay
+104222,0.6870624982,adaptive hybrid
+115934,0.6588697859,contourlet transforms

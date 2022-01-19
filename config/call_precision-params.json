@@ -1,0 +1,4 @@
+{
+    "df": "test/testdata/autophrase_100.txt",
+    "output_new_100": "test/testdata/autophrase_100_new.csv"
+}
