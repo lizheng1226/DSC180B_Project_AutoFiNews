@@ -1,3 +1,11 @@
 # DSC180B_Project_AutoFiNews
 
-This is a project that aims to use different methods to predict the change of stock price and compare the performances of those methods.
+This is a data analysis project that aims to use different methods to predict the change of stock price from financial news and compare the performances of those methods.
+
+We build following models:
+- Baseline model: use Bag-of-Words to extract frequent words in news and determine their attitudes.
+- AutoPhrase model: use AutoPhrase to extract high quality phrases and determine their attitudes.
+- Doc2vec and LSTM model: use Doc2vec to create numberical representation of documents and use LSTM to predict the result.
+- BERT model: use BERT to make prediction.
+
+The code and results of different methods can be found in this repository.
