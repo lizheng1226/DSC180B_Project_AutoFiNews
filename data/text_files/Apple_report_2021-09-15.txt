@@ -1,0 +1,545 @@
+NASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 1 OF 7
+Apple manufactures smartphones, tablets, PCs, software and peripherals for a worldwide customer base. Argus Recommendations
+Its products include Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and various consumer
+products, including AirPods, Beats headphones and Apple TV. Apple services include App Store, iTunes,
+iCloud, Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more. Twelve Month Rating SELL HOLD BUY
+Analyst's Notes Five Year Rating SELL HOLD BUY
+Analysis by Jim Kelleher, CFA, September 14, 2021 Sector Rating Under Market Over
+Weight Weight Weight
+ARGUS RATING: BUY
+Argus assigns a 12-month BUY, HOLD, or SELL rating to each
+•New iPhones, ruling in App Store case; reiterating BUY stock under coverage.
+•Apple has introduced its second-generation 5G iPhone, the iPhone 13 family. •BUY-rated stocks are expected to outperform the market (the
+benchmark S&P 500 Index) on a risk-adjusted basis over the
+•The new phones are similar in appearance to the predecessor iPhone 12 lineup, but they offer better next year.
+cameras, faster processing, and enhanced data storage options at the same prices as last year's •HOLD-rated stocks are expected to perform in line with the
+models. market.
+•SELL-rated stocks are expected to underperform the market
+•The new iPhone family faces tough comparisons with a year ago, when the world was stuck at home
+on a risk-adjusted basis.
+just in time for the first generation of 5G phones.
+The distribution of ratings across Argus' entire company
+•At the same time, Apple continues to grow its services and wearable businesses faster than its universe is: 72% Buy, 28% Hold.
+mature products businesses.
+Key Statistics 
+INVESTMENT THESIS
+Key Statistics pricing data reflects previous trading day's closing
+    B UY-rated Apple Inc. (NGS: AAPL) has introduced its second-generation 5G iPhone, price. Other applicable data are trailing 12-months unless
+otherwise specified
+the iPhone 13. The new phones are similar in appearance to the predecessor iPhone 12
+lineup, but they offer better cameras, faster processing, and enhanced data storage options Market Overview
+at the same prices as last year's models. Price $148.12
+     Apple also launched new iterations of Apple Watch (Series 7) and a range of new iPads. Target Price $165.00
+The  expected  introduction  of  Air  Pods  3  did  not  happen,  however.  Wearable  and 52 Week Price Range $103.10 to $157.26
+Shares Outstanding 16.53 Billion
+consumer products have become the fastest-growing product categories for Apple. They
+Dividend $0.88
+also help broaden the number of consumers in the Apple-verse for iPhones, Macs, iPads,
+and apps and services. We still expect Apple to launch Air Pods 3 before the holiday Sector Overview
+season. Sector Technology
+     Apple appears to have won most points in its legal battle with Epic Games, which has Sector Rating OVER WEIGHT
+long fought against Apple's pricing policies and practices in its App Store. Based on the Total % of S&P 500 Market Cap. 28.00%
+ruling issued on 9/10/21, Judge Yvonne Gonzalez Rogers favored Apple on nine of ten Financial Strength
+counts, allowing Apple to mostly keep intact its basic royalty model. The judge, however, Financial Strength Rating HIGH
+found against Apple regarding its anti-steering policies that  prevent developers from Debt/Capital Ratio 65.2%
+alerting consumers to potential use of other payment systems. Return on Equity 147.2%
+   U s e of external payment systems will allow developers to reduce royalties paid to Net Margin 25.0%
+Payout Ratio 0.15
+Market Data Pricing reflects previous trading week's closing price. Current Ratio 1.36
+200-Day Moving Average TTaarrggeett  PPrriiccee::  $$116655..0000 52 Week High: $157.26 52 Week Low: $144.50 Closed at $148.97 on 9/10 Revenue $347.16 Billion
+Price After-Tax Income $86.80 Billion
+($) Valuation
+150 Current FY P/E 25.94
+Prior FY P/E 45.44
+100
+Price/Sales 7.05
+Price/Book 38.18
+50
+Book Value/Share $3.88
+Market Capitalization $2.45 Trillion
+Rating BUY
+HOLD Forecasted Growth
+SELL
+EPS 1 Year EPS Growth Forecast
+($) 75.15%
+5 Year EPS Growth Forecast
+13.00%
+QQQQQQQQQQQQQQQQuuuuuuuuuuuuuuuuaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrtttttttttttttttteeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrllllllllllllllllyyyyyyyyyyyyyyyy 1.05 0.62 0.55 0.76 1.25 0.64 0.65 0.73 1.67 1.40 1.30 1.35 1.67 1.44 1.42 1.61
+1 Year Dividend Growth Forecast
+AAAAAAAAAAAAAAAAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnuuuuuuuuuuuuuuuuaaaaaaaaaaaaaaaallllllllllllllll 2.96 3.26 5.71 (  Estimate) 6.14 (  Estimate)
+5.00%
+Revenue
+($ in Bil.) Risk
+Beta 1.00
+QQQQQQQQQQQQQQQQuuuuuuuuuuuuuuuuaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrtttttttttttttttteeeeeeeeeeeeeeeerrrrrrrrrrrrrrrrllllllllllllllllyyyyyyyyyyyyyyyy 84.3 58.0 53.8 64.0 91.8 58.3 59.7 64.7 111.4 89.6 81.4 84.7 113.8 92.8 86.8 96.3 Institutional Ownership 57.16%
+AAAAAAAAAAAAAAAAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnuuuuuuuuuuuuuuuuaaaaaaaaaaaaaaaallllllllllllllll 260.2 274.5 367.2 (  Estimate) 389.7 (  Estimate)
+FY ends Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Sept 30 2019 2020 2021 2022
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 2 OF 7
+Analyst's Notes
+...Continued
+Apple. We expect most developers to remain fully within the App peer group was up 39%. AAPL declined 7% in 2018; the peer
+Store payment ecosystem, however, given the costs, security risks, group was down 15%. AAPL rose 46% in 2017; the peer group
+and other obstacles to setting up payment systems outside the was up 18%.
+Apple ecosystem. In our view, Apple's total Services revenue (which      On 9/14/21, Apple held its annual September event to introduce
+includes App Store) will not be much impacted by the outcome of its newest iPhone line-up. As in 2020, the iPhone launch event was
+this case. virtual. Apple has actually held a half-dozen consecutive virtual
+   W  h il e  Apple  did  not  reinvent  the  iPhone  this  year,  its events, including its worldwide developer conferences in 2020 and
+continuous upgrades make for a family of elegant devices. For the in 2021, and launches for new hardware and service products.
+long term, we expect Apple to continue building on its franchise    H  eading into the September 2021 event, the press expressed
+leadership in smartphones, compute products (Mac and iPad), and some uncertainty as to whether or not the next generation would
+consumer goods (Air Pods, Watch, Home), while continuing to be called iPhone 13. Some wondered if Apple would risk naming its
+grow its services ecosystem of App Store, iCloud, Apple Pay, Apple new lineup after unlucky 13, or might revert to the 'S' designation
+TV+, and multiple other offerings. used for iPhones 4 through 8. We believed Apple would not go
+    A fter more than a decade of outperformance, AAPL has had a back  to  'S,'  because  the  'S'  designation  was  perceived  as  a
+quiet and market-lagging start to the calendar year. In our view, re-heating of old technology; and the S series usually sold poorly.
+the  relative  underperformance  reflects  sector  rotation,  not  any In the end, Apple risked the 13 designation.
+misfires in Apple's leadership franchises. We therefore regard the    C E O Tim Cook opened the presentation by celebrating the
+underperformance as an opportunity to establish or dollar-average success of Apple TV+, the company's streaming service introduced
+into positions in AAPL. We are reiterating our BUY rating and little more than a year ago. The CEO noted the many award
+12-month target price of $165. nominations for 'Ted Lasso,' and highlighted the new season of
+'The  Morning  Show'  with  Jennifer  Aniston  and  Reece
+RECENT DEVELOPMENTS
+Witherspoon. He also promised programs with stars such as Tom
+    A APL is up 12% year-to-date in 2021, versus a 16% gain for
+Hanks and Paul Rudd.
+peers. AAPL rose 81% in 2020, compared to a 9% advance for the
+    S creen Rant recently ranked Apple TV+ as seventh out of the
+peer  group  of  computing,  storage,  and  information-processing
+top 10 streaming services by subscribers. Leaders Netflix and Prime
+companies in Argus coverage. AAPL rose 86% in 2019, while the
+offer tons of new programming, while No. 3 Disney relies on its
+Growth & Valuation Analysis Financial & Risk Analysis
+GROWTH ANALYSIS
+($ in Millions, except per share data) 2016 2017 2018 2019 2020
+FINANCIAL STRENGTH 2018 2019 2020
+Revenue 215,639 229,234 265,595 260,174 274,515
+Cash ($ in Millions) 25,913 48,844 38,016
+COGS 131,376 141,048 163,756 161,782 169,559
+Working Capital ($ in Millions) 15,410 57,101 38,321
+Gross Profit 84,263 88,186 101,839 98,392 104,956
+Current Ratio 1.13 1.54 1.36
+SG&A 14,194 15,261 16,705 18,245 19,916
+LT Debt/Equity Ratio (%) 87.5 101.5 151.0
+R&D 10,045 11,581 14,236 16,217 18,752
+Total Debt/Equity Ratio (%) 106.8 119.4 172.1
+Operating Income 60,024 61,344 70,898 63,930 66,288
+Interest Expense -2,543 -2,878 -2,446 -1,385 -890 RATIOS (%)
+Pretax Income 61,372 64,089 72,903 65,737 67,091 Gross Profit Margin 38.3 37.8 38.2
+Income Taxes 15,685 15,738 13,372 10,481 9,680 Operating Margin 26.7 24.6 24.1
+Tax Rate (%) 26 25 18 16 14 Net Margin 22.4 21.2 20.9
+Net Income 45,687 48,351 59,531 55,256 57,411 Return On Assets 16.1 15.7 17.3
+Diluted Shares Outstanding 22,001 21,007 20,000 18,596 17,528 Return On Equity 49.4 55.9 73.7
+EPS 2.08 2.30 2.98 2.97 3.28
+RISK ANALYSIS
+Dividend 0.55 0.60 0.68 0.75 0.80
+Cash Cycle (days) -73.6 -73.8 -60.5
+GROWTH RATES (%) Cash Flow/Cap Ex 5.8 6.6 11.0
+Revenue -7.7 6.3 15.9 -2.0 5.5 Oper. Income/Int. Exp. (ratio) 23.5 19.4 24.4
+Operating Income -15.7 2.2 15.6 -9.8 3.7 Payout Ratio 26.1 22.8 25.2
+Net Income -14.4 5.8 23.1 -7.2 3.9
+EPS -9.9 10.8 29.4 -0.3 10.4
+The data contained on this page of this report has been
+Dividend 10.1 10.1 13.3 10.3 6.0 provided by Morningstar, Inc. (© 2021 Morningstar, Inc.
+Sustainable Growth Rate 27.2 27.3 38.1 41.8 55.8 All Rights Reserved). This data (1) is proprietary to
+VALUATION ANALYSIS Morningstar and/or its content providers; (2) may not be
+Price: High $29.67 $44.30 $58.37 $73.49 $138.79 copied or distributed; and (3) is not warranted to be
+accurate, complete or timely.  Neither Morningstar nor its
+Price: Low $22.37 $28.69 $36.65 $35.50 $53.15
+content providers are responsible for any damages or
+Price/Sales: High-Low 3.0 - 2.3 4.1 - 2.6 4.4 - 2.8 5.3 - 2.5 8.9 - 3.4
+losses arising from any use of this information.  Past
+P/E: High-Low 14.3 - 10.8 19.2 - 12.5 19.6 - 12.3 24.7 - 12.0 42.3 - 16.2
+performance is no guarantee of future results. This data
+Price/Cash Flow: High-Low 9.9 - 7.5 14.6 - 9.5 15.1 - 9.5 19.7 - 9.5 30.2 - 11.5
+is set forth herein for historical reference only and is not
+necessarily used in Argus’ analysis of the stock set forth
+on this page of this report or any other stock or other
+security. All earnings figures are in GAAP.
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 3 OF 7
+Analyst's Notes
+...Continued
+library  and  franchise  expansions.  Apple  has  taken  a  curated flash.
+approach, offering a relatively thin lineup of high-quality shows      For $329, of $299 with education discount, the base iPad Mini
+with  big  stars.  The  jury  is  still  out  on  whether  this  strategy model offers 64GB of storage - twice the storage of the predecessor
+succeeds, but Apple TV+ is a relative drop in the Apple bucket. product for the same price. Apple is also bringing 5G to iPad Mini.
+    B efore introducing the new iPhones, Apple debuted a series of With 5G and WiFi, the iPad Mini 6 costs $499.
+new iPads, in regular, mini, and Air formats. The new iPad 9 will    T h e company then moved on to introducing the new Apple
+be powered by the A13 processor, which is two generations behind Watch. Series 7 has a 20% larger display; and the borders are 40%
+the iPhone 13 processor but still very powerful. Apple notes that thinner  to  maximize  screen  size.  The  company  made  a  subtle
+the A13 processor is three-times faster than the Android processor ergonomic adaptation by making the corners more rounded. Apple
+used in a high-end Chromebook. The neural engine on the A13 Watch Series 7 is also 70% brighter than predecessor series when
+also enhances native-language and other capabilities, leading to away from the 'check my watch' position. That should make it
+improved app performance such as a new real-time translator. easier to read at a distance when someone wants to discretely check
+    M  uch of the iPad focus was on the all-new iPad Mini 6. The the time.
+iPad Mini 6 offers 'brilliant' retina design, formerly absent on the     A pple Watch Series 7 promises enhanced water resistance and
+Mini models. The new Mini also has 12MP ultra-wide camera. It claims that charging is up to 33% faster. Apple Fitness Plus, a
+offers a feature called Center Stage, which keeps a subject in the popular subscription service for watch owners, is now available in
+center of the screen as the photographer moves around. six countries and will add 15 more countries later this year. One
+    L ike iPhone models beginning with iPhone 12, the iPad Mini 6 downside is that battery life is not improved, or Apple would have
+(and the iPad 9) have a USBC port, an upgrade from USB said to called it out.
+be 10-times faster. All Apple devices will eventually feature USBC,    T h e big September event is the new iPhone launch, and the
+creating the option to connect to an eco-system of USBC devices. company  fearlessly  call  the  new  family  iPhone  13.  From  the
+    M  ini also features Apple Pencil, which turns your device into a outside, iPhone 13 family phones pretty much look like iPhone 12
+digital sketchbook, according to the company. For iPad 9, iPad family phones. Similar to last year's model, the base iPhone 13
+Mini 6, and the new iPad Air, Touch ID has moved to top of model offers ceramic shield and straight edges.
+screen; that feature was first moved on iPad Pro. Both the front and     W  hile looking similar to the iPhone 12 lineup, the new iPhone
+back cameras are upgraded on Mini 6, and feature True Tone offers more memory than prior baseline models, and also has
+Peer & Industry Analysis
+The graphics in this section are designed to
+Growth P/E
+allow investors to compare AAPL   versus its
+industry peers, the broader sector, and the AAPL   vs.
+market as a whole, as defined by the Argus AAAAAAAAAAPPPPPLLLLL Market
+Universe of Coverage. 25 AAPL   vs.
+Sector
+•The scatterplot shows how AAPL   stacks
+More Value More Growth
+up  versus  its  peers  on  two  key
+characteristics:  long-term  growth  and Price/Sales
+value. In general, companies in the lower 20 AAPL   vs.
+left-hand corner are more value-oriented, Market
+while those in the upper right-hand corner AAPL   vs.
+are more growth-oriented. Sector
+•The table builds on the scatterplot by 15 More Value More Growth
+displaying more financial information. Price/Book
+•The  bar  charts  on  the  right  take  the IIIIIBBBBBMMMMM AAPL   vs.
+analysis two steps further, by broadening Market
+the comparison groups into the sector 10 AAPL   vs.
+level and the market as a whole. This tool Sector
+is designed to help investors understand HHHHHPPPPPEEEEE HHHHHPPPPPQQQQQ More Value More Growth
+Value
+hdiovwer sAifAiePdL  p or tmfoilgioh.t fit into or modify a P/E 8 10 12 14 PEG
+5-yr Growth Rate(%) AAPL   vs.
+Market
+5-yr Net 1-yr EPS
+AAPL   vs.
+Market Cap Growth Current Margin Growth Argus Sector
+Ticker Company ($ in Millions) Rate (%) FY P/E (%) (%) Rating More Value More Growth
+AAPL Apple Inc 2,448,448 13.0 25.9 25.0 7.5 BUY 5 Year Growth
+IBM International Business Machine 122,097 9.0 12.4 7.2 12.7 BUY AAPL   vs.
+HPQ HP Inc 33,107 9.0 7.4 6.6 4.3 BUY Market
+HPE Hewlett Packard Enterprise Co 17,957 8.0 7.2 3.7 5.2 HOLD AAPL   vs.
+Sector
+Peer Average 655,402 9.8 13.2 10.6 7.4 More Value More Growth
+Debt/Capital
+AAPL   vs.
+Market
+AAPL   vs.
+Sector
+More Value More Growth
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 4 OF 7
+Analyst's Notes
+...Continued
+longer battery life. The tradeoff is that the device is somewhat      iPhone 13 Pro offers enhanced battery life relative to iPhone 12
+heavier than the predecessor iPhone 12. Pro.
+   O n e exception is the notch at the top which enables facial      Bo t h  iPhone  13  and  iPhone  13  Pro  have  Max  iterations,
+recognition; this notch, which apparently bugged some users due to meaning they have larger-screen models. iPhone 13 Pro is priced
+its size, is smaller on iPhone 13. Another physical difference is the similarly to last year's model, at $999 for iPhone 13 Pro and
+back camera array. On iPhone 12, the two cameras are vertical; in $1,099 for iPhone 13 Pro Max. The latter device is the first ever
+iPhone 13, they are diagonally arrayed. As usual, your old case iPhone that features an option for 1 TB in memory.
+won't work on the new model.    A l l the new iPhones go on pre-sale on 9/17/21 and will be
+   M  ost differences in iPhone 13 are internal. iPhone 13 has a available in stores on 9/24/21. The new 2021 iPhone lineup from
+display that is 28% brighter compared to iPhone 12. The phone is the holiday season, at least as of 9/14/21, includes iPhone 13 and
+powered by the new A15 bionic chip, which has a 6-core CPU, for 13 Max; iPhone 13 Pro and 13 Pro Max; iPhone 12 and 12 Max
+the fastest CPU of any phone, and a 4-core GPU. (but no iPhone 12 Pro models); iPhone SE; and iPhone 11. If past is
+     In terms of camera upgrades, iPhone 13 offers a next-generation precedent, we could see iPhone 11 vanish off the site by December.
+image signal processor that powers the most advanced dual-camera    A  pple is promising better trade-in deals to lower the cost of
+system on any phone. The main MP12 sensor is larger to let in your new iPhone; its own goal is to move more devices. The new
+more light. Sensor shift stabilization (first introduced in iPhone 12 iPhone family faces tough comparisons with a year ago, when the
+Pro Max) results in sharper photos. The ultra-wide camera better world was stuck at home just in time for the first generation of 5G
+captures light in dark areas. phones. iPhone revenue exploded to $66 billion in fiscal 1Q21
+     Video on iPhone 13 offers Cinematic Mode, which allows users (calendar 4Q20) from $26 billion in fiscal 4Q20 (calendar 3Q20).
+to  adjust  background  and  foreground  focus  as  a  means  of    W  hile the current-quarter (fiscal 4Q21) comp is manageable,
+accentuating the subject. Cinematic mode holds the focus as the the  real  challenges  comes  in  fiscal  1Q22,  which  captures  the
+subject moves; it can also transition the focus in real time or lock holiday 2021 quarter. At the same time, Apple continues to grow
+focus on another subject. its services and wearable businesses faster than its mature products
+     This is Apple's second-generation 5G phone but here too Apple businesses. That should help offset any relative weakness in iPhone
+offers some refinements. Customized antennas on iPhone 13 add revenue growth.
+more 5G bands than before, even though iPhone 12 had a rich    A  lmost as notable as what was presented was what did not
+array of bands. By the end of calendar 2021, iPhone 13 will make the show. Pundits forecast that Apple would introduce Air
+provide 5G support for 200 carriers in 60 countries and regions. Pods 3, but they were not shown. Similarly, there were no Mac
+   B a ttery life is improved, with iPhone 13 offering 2.5 hours announcements;  and  no  mention  of  release  dates  for  iOS  15,
+longer battery life in relation to iPhone 12. The improvement in iPadOS  15  and  watchOS  8.  All  these  products  and  software
+battery life reflects the bigger battery, the efficient A15 processor, updates may be announced in a separate virtual event; if so it is
+and power optimization from hardware and software integration. likely to occur before the holiday season.
+     iPhone 13 comes in five colors: black, white, red, blue, and the     A pple has also recently come through its bruising legal battle
+newest color pink. The price is unchanged from last year, with a with Epic, related to Apple's pricing model in its App store. We
+starting price of $699, but data storage is enhanced. The baseline regard the outcome as generally (though not completely) a win for
+iPhone 13 model comes with 128 GB storage vs. 64 GB for baseline Apple.
+iPhone 12. There are also options to bump up to 256 GB and 512      On 9/10/21, Judge Yvonne Gonzalez Rogers issued her ruling in
+GB. the Epic v. Apple lawsuit. In broad strokes, the judge ruled that
+     As always, the iPhone Pro is a step-up in performance and price. Apple was not unfairly monopolizing the market for mobile phone
+iPhone 13 Pro comes in four finishes of graphite, gold, silver, and apps. The judge, however, found against Apple on the key issue of
+sierra blue. The new Pro features slightly upgraded A15 chip, its  anti-steering  rules,  which  violate  the  California  Unfair
+including a 5-core GPU that delivers the fastest graphics experience Competition Law.
+on iPhone ever.    T  he management of Epic, which makes and owns the hugely
+     T h e  Pro  has  an  all-new  three-camera  system  on  the  back, popular Fortnite game, has long felt that digital storefronts take
+including a 77 mm telephoto camera with 3x zoom. The ultra-wide too much of a revenue share - 30%, in this case, on the iOS App
+camera has a wider aperture for brighter and sharper photos. With Store - simply to make the games available for download to iOS
+a larger sensor on the main lens, iPhone 13 Pro provides a better users.  Fortnite  emerged  as  a  hugely  popular  game  played  on
+low-light  experience  for  uses  such  as  astral-photography.  Both consoles and PCs in 2017-18 period. Fortnite battle Royale is
+front and back cameras have night mode, including telephoto. free-to-play, but generates revenue on in-game micro-transactions.
+Later this year, Apple plans to introduce ProRes video to iPhone 13 Epic sought to bring its game to mobile devices via the Apple App
+pro; ProRes allows Store and Google Pay, but chafed at the 30% revenue sharing.
+     Epic affixed an invisible patch to Fortnite that allowed users to
+RECENT DEVELOPMENTS
+make micro-transactions while side-stepping Apple and Google.
+     users to record 4K at 30FPs in the camera app.
+Epic then made that patch public, challenging the two companies at
+     T h e  display  for  iPhone  13  Pro  offers  so-called  ProMotion,
+a  time  when  Congress  was  looking  ever  more  closely  at
+which  has  the  ability  to  scale  between  10  Hz  and  120  Hz.
+monopolistic behavior by technology giants. By mid-August 2020,
+ProMotion adjusts the refresh rate based on the app deployed and
+both  Google  and  Apple  had  removed  Fortnite  from  their
+how quickly you are scrolling through your screen. ProMotion is
+storefronts.  Epic  immediately  filed  lawsuits  against  both
+said to be more responsive, with a lack of lag and more detailed
+companies.
+graphics. Similar to iPhone 13,
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 5 OF 7
+Analyst's Notes
+...Continued
+    T he trial ran began in May 2021 in the United States District of $1.01. Management provided no explicit top- or bottom-line
+Court for the Northern District of California. Epic accused Apple guidance for fiscal 3Q21.
+of anti-trust behavior based on its payment practices within the      For all of FY20, Apple posted revenue of $274.5 billion, up 6%
+App  store.  Rather  than  seek  monetary  damages,  Epic  sought from $260.1 billion in FY19. GAAP EPS totaled $13.05 (on a
+injunctive relief to allow fair competition in markets impacting tens presplit basis), up 10% from the $11.84 earned in FY19.
+of thousands of third-party app developers. Apple counter-argued     O ur FY21 GAAP earnings estimate is $5.71 per diluted share.
+that opening the 'walled garden' of iOS to third-party platforms We are also reiterating our FY22 non-GAAP EPS forecast of $6.14
+would create the potential for security breaches, putting App Store per diluted share. We regard our EPS estimates as fluid and subject
+users' personal data at risk. to change. With no significant adjustments, events or charges in
+    T he judge issued her ruling on September 10, 2021. The judge any  period,  our  GAAP  and  non-GAAP  earnings  estimates  are
+found in favor of Apple on nine of 10 counts. Key victories for identical. Our long-term EPS growth rate forecast for AAPL is
+Apple included no reduction in the App Store's 30% revenue cut, 13%.
+and no ability for developers to set up third-party marketplaces
+FINANCIAL STRENGTH & DIVIDEND
+directly  within  the  iOS  environment,  both  of  which  Epic  had
+    O  ur financial strength rating on Apple is High, the top of our
+requested.
+five-point scale. In the wake of the recent cut in the corporate tax
+    T h e   judge,  however,  ruled  against  Apple  on  its  so-called
+rate and relaxed restrictions on repatriating overseas cash, Apple
+anti-steering  provisions,  which  she  said  violated  the  California
+has  stepped  up  its  shareholder  return  program  with  higher
+Unfair Competition Law. She issued a permanent injunction which
+buybacks and an April 2019 dividend hike. It has also accelerated
+ensures that Apple cannot block developers from linking app users
+debt retirement.
+to other digital storefronts where they can complete a purchase.
+     Cash & short- and long-term investments were $193.6 billion at
+Developers can also now collect information within an app, such as
+the end of fiscal 3Q21. Cash was $191.8 billion at the end of
+an email address, and use it to notify users of the existence of
+FY20, $205.9 billion at the end of FY19, $237.1 billion at the end
+competing storefronts.
+of FY18, $277.0 billion at the end of FY17, and $237.6 billion at
+   U se    of  external  payment  systems  will  ultimately  allow
+the end of FY16.
+developers to reduce royalties paid to Apple, which are paid at a
+    D ebt was $121.8 billion at the end of fiscal 3Q21. Debt was
+flat 30% royalty rate by developers within the App store. At the
+$112.4 billion at the end of FY20, $108.1 billion at the end of
+same time, we believe intermediate-term risks to Apple's App Store
+FY19, $114.5 billion at the close of FY18, $115.7 billion at the
+revenue and profit model will be modest.
+end of FY17, and $87.0 billion at the end of FY16. In recent years,
+    W e expect most developers will decide to remain fully within
+Apple has levered up in anticipation of more aggressive capital
+the App Store payment ecosystem, given the costs, security risks,
+allocation.
+and other obstacles to setting up payment systems outside the
+     Fo r   the  first  nine  months  of  fiscal  2021,  cash  flow  from
+Apple ecosystem. This may change over time. In our view Apple's
+operations was $83.8 billion vs. $60.1 billion in the year-earlier
+total Services revenue (which includes App Store) will not be much
+nine-month period. Cash flow from operations was $80.7 billion in
+impacted by the outcome of the Epic v. Apple trial.
+FY20. Cash flow from operations was $69.4 billion in FY19, $77.9
+     While Apple did not reinvent the iPhone in 2021, its continuous
+billion in FY18, and $69.4 billion in FY17.
+upgrades make for a family of elegant devices. For the long term,
+    A pple added $90 billion to its buyback authorization in April
+we expect Apple to continue building on its franchise leadership in
+2021  and  $50  billion  in  April  2020.  In  April  2019,  Apple
+smartphones, compute products (Mac and iPad), and consumer
+authorized a $75 billion buyback. In April 2018, it announced a
+goods (Air Pods, Watch, Home), while continuing to grow its
+new $100 billion share repurchase authorization.
+services ecosystem of App Store, iCloud, Apple Pay, Apple TV+,
+    I n April 2021, Apple raised its quarterly dividend by 7% to a
+and multiple other offerings.
+split-adjusted $0.22 per share. It also raised its dividend by 6.5%
+    A fter more than a decade of outperformance, AAPL has had a
+in April 2020, by 5% in April 2019, by 16% in April 2018, and by
+quiet and market-lagging start to the calendar year. In our view,
+10.5% in April 2017. Apple declared its first quarterly dividend in
+the  relative  underperformance  reflects  sector  rotation,  not  any
+April 2012.
+misfires in Apple's leadership franchises. We therefore regard the
+    W  e expect a new buyback authorization and dividend hike to
+underperformance as an opportunity to establish or dollar-average
+continue to drive investor interest in the stock. On a split-adjusted
+into positions in AAPL. We are reiterating our BUY rating and
+basis, our dividend forecasts are $0.84 for FY21 and $0.92 for
+12-month target price of $165.
+FY22.
+EARNINGS & GROWTH ANALYSIS
+MANAGEMENT & RISKS
+     F o r  fiscal  3Q21  (calendar  2Q21),  Apple  posted  revenue  of
+    T imothy Cook has served as CEO since industry legend Steve
+$81.4 billion, which was up 37% year-over-year. Revenue far
+Jobs passed away in 2011. Former Apple controller and former
+exceeded the consensus forecast of $73.3 billion.
+Xerox CFO Luca Maestri became CFO in September 2013. Jeff
+   T h e GAAP gross margin expanded sequentially to 43.3% in
+Williams is COO. Longtime head of worldwide marketing Phil
+3Q21 from 42.5% in 2Q21 and was also up from 38.0% a year
+Schiller retired from that role and has become an Apple fellow.
+earlier.  The  GAAP  operating  margin  tightened  sequentially  to
+Another long-term Apple executive, Greg Joswiak, is the head of
+29.6% in 3Q21 from 30.7% in 2Q21 but expanded from 21.9%
+marketing.
+in the prior-year quarter.
+    O  ther top executives, including design leader Jony Ive and SVP
+     GAAP earnings totaled $1.30 per diluted share, up 100% from
+of retail Angela Ahrendts, have left the company in the past year
+$0.65 a year earlier. GAAP EPS was $0.34 above the consensus call
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+APPLE INC
+Report created Sep 15, 2021  Page 6 OF 7
+Analyst's Notes
+...Continued
+and  a  half.  However,  Apple  has  a  deep  bench  of  executive, cash flow model renders a value around $245 per share, in a rising
+engineering and marketing talent. We think that it will continue to trend and well above current levels. Our blended fundamental
+attract high-quality talent, both from an engineering perspective as valuation model points to a price above $215, in a rising trend and
+well as in the corporate leadership ranks. well above current prices.
+     Apple is in its familiar cadence of introducing new phones in the      A p preciation  to  our  split-adjusted  12-month  target  price  of
+fall, just ahead of holiday spending, though that schedule was $165, along with the dividend yield of about 0.5%, implies a
+slightly delayed last year. The upcoming 5G cycle promises to be risk-adjusted total return in excess of our forecast for the broad
+major. Apple is a product perfecter, not a product originator, and market and is thus consistent with a BUY rating.
+will eventually find a ready appetite for its iPhones whenever they     O n September 14, BUY-rated AAPL closed at $148.12, down
+are ready. $1.43.
+   A p ple sells phones around the globe; smartphones are now
+ubiquitous and in need of constant upgrades; and consumers are
+anxious to remain within the Apple ecosystem. For these reasons,
+we expect Apple's long-cycle demand to smooth any near-term
+demand bumps. Tariffs also represent a difficult-to-quantify risk,
+but all parties have a long-term interest in facilitating global trade
+flows.
+   I n vestors have criticized Apple for its closed ecosystem. That
+system, however, has the effect of prompting consumers to buy
+iPads and Macs for system compatibility. Even more compelling for
+brand loyalty are Apple's services, including iTunes, App Store,
+and iCloud, as consumers do not want the cost and complexity of
+pulling their media libraries out of the comfortable arms of Mother
+Apple.
+    T he shares are always at risk from the perception that growth
+could slow as the law of large numbers catches up with Apple. The
+company has mitigated that risk, in our view, with very aggressive
+shareholder return policies, which will likely remain paramount.
+Despite the company's growing largesse, we expect institutional
+investors to continue to demand more aggressive dividend growth
+and a larger share repurchase plan.
+COMPANY DESCRIPTION
+   A p ple manufactures smartphones, tablets, PCs, software and
+peripherals for a worldwide customer base. Its products include
+Mac desktop and mobile PCs, iPhone, iPad, Apple Watch, and
+various consumer products, including AirPods, Beats headphones
+and Apple TV. Apple services include App Store, iTunes, iCloud,
+Apple TV+, Apple Arcade, Apple Music, Apple Pay, and more.
+VALUATION
+    O  n a split adjusted basis, AAPL trades at 26.1-times our FY21
+EPS forecast and at 24.3-times our FY22 forecast; the two-year
+average P/E of 25.2 remains well above the five-year (FY16-FY20)
+trailing  multiple  of  15.8.  Apple  is  trading  at  a  premium  to
+historical relative multiples. Over the past five years, AAPL has
+traded at an average 17% discount to the market multiple, or at a
+relative P/E of 0.83. The stock now trades at 104% of the market
+multiple on a two-year-average forward basis, or at a relative P/E
+of 1.04. On all comparable historicals, we calculate a split-adjusted
+value in the mid-$80s, in a rising trend though below current
+prices.
+   A A PL trades at premiums to the technology hardware peer
+group on P/E, relative P/E, EV/EBITDA and PEGY. While peer
+indicated value of about $100 is below current prices, we believe
+that  AAPL  warrants  a  significant  premium  to  peers  given  the
+company's  ability  to  expand  globally  and  to  generate  healthy
+demand for its products in every kind of economy. Apple also
+trades on GAAP results while peers trade on non-GAAP results.
+     Our more forward-looking two- and three-stage discounted free
+Please see important information about this report on page 7
+Argus Analyst Report
+©2021 Argus Research CompanyNASDAQ: AAPL  
+METHODOLOGY & DISCLAIMERS
+Report created Sep 15, 2021  Page 7 OF 7
+About Argus
+Argus Research, founded by Economist Harold Dorsey in 1934, And finally, Argus’ Valuation Analysis model integrates a
+has built a top-down, fundamental system that is used by Argus historical ratio matrix, discounted cash flow modeling, and peer
+analysts. This six-point system includes Industry Analysis, Growth comparison.
+Analysis, Financial Strength Analysis, Management Assessment, THE ARGUS RESEARCH RATING SYSTEM
+Risk Analysis and Valuation Analysis.
+Argus uses three ratings for stocks: BUY, HOLD, and SELL.
+Utilizing forecasts from Argus’ Economist, the Industry Analysis Stocks are rated relative to a benchmark, the S&P 500.
+identifies industries expected to perform well over the next
+•A BUY-rated stock is expected to outperform the S&P 500 on
+one-to-two years.
+a risk-adjusted basis over a 12-month period. To make this
+The Growth Analysis generates proprietary estimates for determination, Argus Analysts set target prices, use beta as the
+companies under coverage. measure of risk, and compare expected risk-adjusted stock
+In the Financial Strength Analysis, analysts study ratios to returns to the S&P 500 forecasts set by the Argus Market
+understand profitability, liquidity and capital structure. Strategist.
+During the Management Assessment, analysts meet with and •A HOLD-rated stock is expected to perform in line with the
+familiarize themselves with the processes of corporate management S&P 500.
+teams. •A SELL-rated stock is expected to underperform the S&P 500.
+Quantitative trends and qualitative threats are assessed under
+the Risk Analysis.
+Argus Research Disclaimer
+Argus Research Co. (ARC) is an independent investment research provider whose parent company, Argus Investors’ Counsel, Inc. (AIC), is registered with the U.S. Securities and
+Exchange Commission. Argus Investors’ Counsel is a subsidiary of The Argus Research Group, Inc. Neither The Argus Research Group nor any affiliate is a member of the FINRA or
+the SIPC. Argus Research is not a registered broker dealer and does not have investment banking operations. The Argus trademark, service mark and logo are the intellectual
+property of The Argus Research Group, Inc. The information contained in this research report is produced and copyrighted by Argus Research Co., and any unauthorized use,
+duplication, redistribution or disclosure is prohibited by law and can result in prosecution. The content of this report may be derived from Argus research reports, notes, or analyses.
+The opinions and information contained herein have been obtained or derived from sources believed to be reliable, but Argus makes no representation as to their timeliness,
+accuracy or completeness or for their fitness for any particular purpose. In addition, this content is not prepared subject to Canadian disclosure requirements. This report is not an
+offer to sell or a solicitation of an offer to buy any security. The information and material presented in this report are for general information only and do not specifically address
+individual investment objectives, financial situations or the particular needs of any specific person who may receive this report. Investing in any security or investment strategies
+discussed may not be suitable for you and it is recommended that you consult an independent investment advisor. Nothing in this report constitutes individual investment, legal or
+tax advice. Argus may issue or may have issued other reports that are inconsistent with or may reach different conclusions than those represented in this report, and all opinions are
+reflective of judgments made on the original date of publication. Argus is under no obligation to ensure that other reports are brought to the attention of any recipient of this report.
+Argus shall accept no liability for any loss arising from the use of this report, nor shall Argus treat all recipients of this report as customers simply by virtue of their receipt of this
+material. Investments involve risk and an investor may incur either profits or losses. Past performance should not be taken as an indication or guarantee of future performance.
+Argus has provided independent research since 1934. Argus officers, employees, agents and/or affiliates may have positions in stocks discussed in this report. No Argus officers,
+employees, agents and/or affiliates may serve as officers or directors of covered companies, or may own more than one percent of a covered company’s stock. Argus Investors’
+Counsel (AIC), a portfolio management business based in Stamford, Connecticut, is a customer of Argus Research Co. (ARC), based in New York. Argus Investors’ Counsel pays Argus
+Research Co. for research used in the management of the AIC core equity strategy and model portfolio and UIT products, and has the same access to Argus Research Co. reports as
+other customers. However, clients and prospective clients should note that Argus Investors’ Counsel and Argus Research Co., as units of The Argus Research Group, have certain
+employees in common, including those with both research and portfolio management responsibilities, and that Argus Research Co. employees participate in the management and
+marketing of the AIC core equity strategy and UIT and model portfolio products.
+Morningstar Disclaimer
+© 2021 Morningstar, Inc.  All Rights Reserved.  Certain financial information included in this report: (1) is proprietary to Morningstar and/or its content providers; (2) may not be
+copied or distributed; and (3) is not warranted to be accurate, complete or timely.  Neither Morningstar nor its content providers are responsible for any damages or losses arising
+from any use of this information.  Past performance is no guarantee of future results.
+Argus Analyst Report
+©2021 Argus Research Company
