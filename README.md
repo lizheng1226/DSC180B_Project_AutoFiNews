@@ -9,3 +9,11 @@ We build following models:
 - BERT model: use BERT to make prediction.
 
 The code and results of different methods can be found in this repository.
+
+## Run
+```
+$ python run.py [test]
+```
+
+### `test` target
+Runs a subset of pre-trained AutoPhrase dataset on the Word2vec model using the data in `test/testdata` and test the configurations in `config`.
