@@ -1,4 +1,4 @@
 {
-    "text_path": "test/testdata/Autophrase_multi-words.txt",
+    "text_path": "test/testdata/AutoPhrase_multi-words.txt",
     "output_100": "test/testdata/autophrase_100.txt"
 }

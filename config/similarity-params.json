@@ -1,5 +1,5 @@
 {
     "output_model": "test/testdata/word2vec.model",
-    "df_multiwords": "test/testdata/Autophrase_multi-words(5K).txt",
-    "compare_autophrase": "test/testdata/Autophrase.txt"
+    "df_multiwords": "test/testdata/AutoPhrase_multi-words(5K).txt",
+    "compare_autophrase": "test/testdata/AutoPhrase.txt"
 }
