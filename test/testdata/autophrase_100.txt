@@ -1,101 +1,101 @@
 ,0,1
-113140,0.6657301108,der dynamischen
-154673,0.5722370009,usage control model
-186780,0.5041018558,points to analysis
-150107,0.5821652649,class conditional probabilities
-71160,0.7685959293,evaluation metrics
-114029,0.6636100084,geographic information system
-158363,0.5642851811,high computational costs
-159722,0.5613652812,transmission quality
-85343,0.7330321333,protein domain families
-146408,0.5900697382,set manipulation
-53480,0.8162094474,led array
-9204,0.9408446717,partitioned global address space
-20614,0.9066370623,backup routes
-4525,0.9580776849,operational semantics
-149059,0.5843904642,completely insecure
-117985,0.6540003004,sleep wake scheduling
-78347,0.7504589636,progressive decoding
-114777,0.661728235,language pair
-167731,0.5441513839,technical disciplines
-2071,0.9678336787,chesapeake bay
-159310,0.562264685,multilevel hypergraph
-127618,0.6321559031,major difficulties
-30514,0.8790016411,amino acid alphabet
-17268,0.9163165417,welded blanks
-153551,0.5747272756,estimating parameters
-23808,0.8973225844,fpga architectures
-132210,0.6216592049,automatically identifies
-164255,0.5515858071,attack surfaces
-46508,0.8361706432,boolean equation systems
-27130,0.8881298474,micropositioning stage
-66153,0.7817130916,scattering calculations
-57893,0.8037852587,cyclic scheduling
-14157,0.9253509301,shared dataspace
-159125,0.5626665563,frequently encounter
-11576,0.9331767628,tutte polynomials
-40334,0.8532320724,shop floor control
-178186,0.5220449276,grasping objects
-153558,0.5747070737,inductor less
-247,0.9783796657,nvidia cuda
-108061,0.6777657033,converges globally
-47887,0.8320958699,task partitioning
-86742,0.7296789037,discrete bit loading
-100359,0.6963950697,persistent csma
-16936,0.9172722907,musical genre classification
-33441,0.8713787646,intersection graphs
-8515,0.943111738,privacy violation
-30410,0.8792479896,surface orientation
-108626,0.6764236135,generative planning
-105236,0.684584987,adaptive critic design
-188248,0.5010553054,"0,1 ^ 2"
-141342,0.6011658063,diffusion effects
-180350,0.5177158573,extended targets
-11783,0.9325315381,computational photography
-153607,0.5745918321,software assistants
-90845,0.7192369737,active membranes
-90352,0.7205071169,hierarchical latent class models
-22841,0.9002172072,hebbian plasticity
-103895,0.687802184,minimum volume bounding
-124831,0.6383755105,actuated robots
-42264,0.8479420289,gaussian mixture modeling
-59643,0.7990652923,dual arm cluster tools
-155119,0.5712483826,6th conference
-5801,0.9529608399,number crunching
-137359,0.6101001949,shape orientation
-49117,0.8287013097,point sources
-86963,0.7291135185,transparent scan
-121578,0.6456142962,stereo image sequence
-103158,0.6895766202,virtual reality based
-132130,0.6218598993,sum power constraint
-184524,0.5088464058,effective feedback
-42495,0.8472993643,viscous compressible
-61550,0.7941518881,anomalous behaviour
-57897,0.8037786409,michigan style learning classifier
-28778,0.8837207531,man wan
-172152,0.5346281621,markerless human
-96625,0.7053030936,end user's
-6535,0.9502228583,loosely connected
-75703,0.7570667566,graph minor theory
-93295,0.7130778673,maximum weighted
-149246,0.5839496401,bluetooth connection
-7721,0.9460028965,dispersion compensation
-166225,0.5474204674,large data volume
-20350,0.907429518,acceptance rejection
-177945,0.5225159035,coordinated path following
-92590,0.714779123,cayley networks
-107457,0.6792567961,smil 2.0
-184618,0.5086672902,strict and weak
-39681,0.8549581036,surgical skills
-39327,0.8558481715,fundamental matrices
-170183,0.5389435848,| akj
-109331,0.6747444301,ein wissensbasiertes system zur
-107219,0.6798475285,interactive courseware
-39141,0.8563631924,eine empirische untersuchung
-75794,0.7568422145,body mounted
-87487,0.7278348356,permissible functions
-97156,0.70400591,segmentation method
-75606,0.7573227458,dynamic compensation
-40178,0.8536458158,group delay
-104222,0.6870624982,adaptive hybrid
-115934,0.6588697859,contourlet transforms
+134926,0.6154552988,0.13 μm
+35152,0.8669349937,ising model
+98165,0.7016135961,90nm cmos process
+166785,0.5462858654,physiological and behavioral
+33729,0.8706751675,nested transaction
+35331,0.8664904911,sherman morrison
+4496,0.9581964823,mesh generation
+102899,0.6901861628,average percentage
+22487,0.9011933165,metrical task systems
+171435,0.5361593623,block design
+146375,0.5901364573,decision tree learners
+93669,0.7122249232,queueing processes
+67128,0.7791558388,economically feasible
+64422,0.7862275285,crm adoption
+117579,0.6549527152,cmos active
+61082,0.7953765855,nonsmooth multiobjective
+79285,0.7481427147,refined bounds
+75235,0.7582301671,direct detection
+162217,0.5559826154,akj |
+18834,0.9118750933,user centered design
+108830,0.6759147966,transient heat
+93345,0.7129824566,electronic law
+181755,0.5146775299,scanned text
+150122,0.5821291428,supporting software evolution
+115074,0.6610401151,body dimensions
+178001,0.5224030762,signal modeling
+54436,0.8135029165,displaced subdivision surface
+139297,0.6056425003,database construction
+143887,0.5956567505,0.25 μm
+135536,0.614161554,partition statistics
+106668,0.6811958664,compactness measure
+21741,0.9034507912,computational linguists
+63369,0.789108627,handwritten hindi
+186738,0.5042053858,test controller
+146912,0.588973862,falls below
+56335,0.8081130425,expressions denoting
+167622,0.5444028281,public transport network
+70803,0.769496881,rail transportation
+51563,0.8217484394,rfid applications
+103738,0.6881270936,lan environments
+106107,0.6825830159,best fit
+32422,0.8739786846,educational settings
+52567,0.8187519293,strongly connected component
+98650,0.7004711848,joint reconstruction
+27337,0.8875742751,eavesdropper channel
+134863,0.6155846552,life experiences
+95749,0.7072894187,stream processing applications
+42759,0.8466177822,agent mobility
+34405,0.8688680481,scanned document images
+23811,0.8973068907,substructure searching
+56647,0.8071860864,entity search
+50194,0.8256395602,training samples
+19882,0.908835171,orthogonal polyhedra
+159909,0.5609677204,freshness metrics
+144897,0.5934434256,complex images
+22266,0.9019343252,posture recognition
+101957,0.6923730297,fuzzy lvq
+77785,0.7518983821,vertical acceleration
+145884,0.5912043901,osi network
+176379,0.5256345804,adult human
+25993,0.8911494737,patriot act
+158597,0.5638304644,graphs with minimum degree
+32939,0.8727069953,foreign exchange trading
+97304,0.7036406918,expectation confirmation model
+159781,0.5612436559,extracting relevant information
+128941,0.6291256426,vehicle and crew scheduling
+180674,0.5169884573,adaptively learn
+112845,0.6663802012,mobile database
+131861,0.6225119921,dg devices
+179305,0.5197875186,maximal sum
+94894,0.7093640663,incremental adaptation
+72067,0.7663189777,virtual human animation
+84578,0.7348627067,bayesian approach
+159133,0.562650394,previous related works
+168920,0.5416382815,discrete gabor transform
+48660,0.8300112409,brain computer interfacing
+43728,0.8439770726,weaker assumption
+170603,0.5380159456,small size and low
+120767,0.6474152704,credit assessment
+102978,0.6899990501,bandwidth constraint
+177554,0.5232636488,y evaluación
+183583,0.51078764,communication style
+35294,0.8665849854,executive compensation
+10641,0.9362368937,bit vector
+150604,0.581079264,secure data management
+69144,0.7737878472,trip count
+94505,0.7102809549,aging populations
+40626,0.8524703153,global search
+174917,0.5287220181,hybrid zero dynamics
+74373,0.7603706624,instructions per cycle
+91479,0.7175704399,alder strassen bound
+9828,0.9388809495,kullback leibler divergence
+56052,0.8088616964,hospital patient
+168475,0.5425409448,inspection tool
+181783,0.514623208,conditional instructions
+141301,0.60126285,language reference manual
+158698,0.5636021028,lossless compression methods
+167517,0.5446497574,key problems
+129729,0.6273453421,testable languages
+22409,0.9014648269,continuously variable transmission
