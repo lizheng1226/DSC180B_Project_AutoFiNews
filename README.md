@@ -17,3 +17,8 @@ $ python run.py [test]
 
 ### `test` target
 Runs a subset of pre-trained AutoPhrase dataset on the Word2vec model using the data in `test/testdata` and test the configurations in `config`.
+
+
+
+## Webpage
+* https://aponyua991.github.io/AutoFiNews/
