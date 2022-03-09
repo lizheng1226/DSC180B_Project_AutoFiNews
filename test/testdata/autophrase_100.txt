@@ -1,101 +1,101 @@
 ,0,1
-134926,0.6154552988,0.13 μm
-35152,0.8669349937,ising model
-98165,0.7016135961,90nm cmos process
-166785,0.5462858654,physiological and behavioral
-33729,0.8706751675,nested transaction
-35331,0.8664904911,sherman morrison
-4496,0.9581964823,mesh generation
-102899,0.6901861628,average percentage
-22487,0.9011933165,metrical task systems
-171435,0.5361593623,block design
-146375,0.5901364573,decision tree learners
-93669,0.7122249232,queueing processes
-67128,0.7791558388,economically feasible
-64422,0.7862275285,crm adoption
-117579,0.6549527152,cmos active
-61082,0.7953765855,nonsmooth multiobjective
-79285,0.7481427147,refined bounds
-75235,0.7582301671,direct detection
-162217,0.5559826154,akj |
-18834,0.9118750933,user centered design
-108830,0.6759147966,transient heat
-93345,0.7129824566,electronic law
-181755,0.5146775299,scanned text
-150122,0.5821291428,supporting software evolution
-115074,0.6610401151,body dimensions
-178001,0.5224030762,signal modeling
-54436,0.8135029165,displaced subdivision surface
-139297,0.6056425003,database construction
-143887,0.5956567505,0.25 μm
-135536,0.614161554,partition statistics
-106668,0.6811958664,compactness measure
-21741,0.9034507912,computational linguists
-63369,0.789108627,handwritten hindi
-186738,0.5042053858,test controller
-146912,0.588973862,falls below
-56335,0.8081130425,expressions denoting
-167622,0.5444028281,public transport network
-70803,0.769496881,rail transportation
-51563,0.8217484394,rfid applications
-103738,0.6881270936,lan environments
-106107,0.6825830159,best fit
-32422,0.8739786846,educational settings
-52567,0.8187519293,strongly connected component
-98650,0.7004711848,joint reconstruction
-27337,0.8875742751,eavesdropper channel
-134863,0.6155846552,life experiences
-95749,0.7072894187,stream processing applications
-42759,0.8466177822,agent mobility
-34405,0.8688680481,scanned document images
-23811,0.8973068907,substructure searching
-56647,0.8071860864,entity search
-50194,0.8256395602,training samples
-19882,0.908835171,orthogonal polyhedra
-159909,0.5609677204,freshness metrics
-144897,0.5934434256,complex images
-22266,0.9019343252,posture recognition
-101957,0.6923730297,fuzzy lvq
-77785,0.7518983821,vertical acceleration
-145884,0.5912043901,osi network
-176379,0.5256345804,adult human
-25993,0.8911494737,patriot act
-158597,0.5638304644,graphs with minimum degree
-32939,0.8727069953,foreign exchange trading
-97304,0.7036406918,expectation confirmation model
-159781,0.5612436559,extracting relevant information
-128941,0.6291256426,vehicle and crew scheduling
-180674,0.5169884573,adaptively learn
-112845,0.6663802012,mobile database
-131861,0.6225119921,dg devices
-179305,0.5197875186,maximal sum
-94894,0.7093640663,incremental adaptation
-72067,0.7663189777,virtual human animation
-84578,0.7348627067,bayesian approach
-159133,0.562650394,previous related works
-168920,0.5416382815,discrete gabor transform
-48660,0.8300112409,brain computer interfacing
-43728,0.8439770726,weaker assumption
-170603,0.5380159456,small size and low
-120767,0.6474152704,credit assessment
-102978,0.6899990501,bandwidth constraint
-177554,0.5232636488,y evaluación
-183583,0.51078764,communication style
-35294,0.8665849854,executive compensation
-10641,0.9362368937,bit vector
-150604,0.581079264,secure data management
-69144,0.7737878472,trip count
-94505,0.7102809549,aging populations
-40626,0.8524703153,global search
-174917,0.5287220181,hybrid zero dynamics
-74373,0.7603706624,instructions per cycle
-91479,0.7175704399,alder strassen bound
-9828,0.9388809495,kullback leibler divergence
-56052,0.8088616964,hospital patient
-168475,0.5425409448,inspection tool
-181783,0.514623208,conditional instructions
-141301,0.60126285,language reference manual
-158698,0.5636021028,lossless compression methods
-167517,0.5446497574,key problems
-129729,0.6273453421,testable languages
-22409,0.9014648269,continuously variable transmission
+76729,0.7544804436,density dependent
+107442,0.6792971902,free viewing
+153788,0.5742005403,enormous success
+79344,0.7479574996,greater freedom
+35562,0.8659042313,satisfiability checker
+178080,0.5222449139,multi hop csma
+172938,0.5329681462,semi supervised classifier
+187078,0.5034845972,linear dynamic models
+134257,0.6169636312,hardware assist
+174843,0.528844173,coded genetic algorithms
+24772,0.8944917111,score level fusion
+23434,0.8984188177,opnet simulator
+25236,0.8933200897,wireless communication
+14840,0.9234893917,xpath query
+96161,0.706358633,confirmatory factor
+67860,0.7772765605,packet duplication
+106207,0.6822967033,mobile telecommunication systems
+115344,0.6603523593,p2p databases
+132616,0.6207526841,link maintenance
+132473,0.6210494488,parallel scan
+7414,0.9470584353,optimal brain surgeon
+4231,0.9590552797,cyber attacks
+151267,0.5797195902,objective of minimizing makespan
+111286,0.670099409,smallest eigenvalue
+31272,0.8768755167,microwave scattering
+78046,0.7511882293,solid state lighting
+93229,0.7132056691,max plus
+40175,0.8536512338,disk caching
+72737,0.7645190527,proof sketches
+57220,0.8056383866,junction temperature
+89306,0.7231803108,times slower
+134288,0.6169233717,expert decision making
+6329,0.9509465185,project management
+51000,0.8233854927,informal proceedings
+10085,0.9380150409,à trous
+116452,0.6576412928,user experience team
+116276,0.6580129948,august 25 27
+55508,0.8103821245,reproducible research
+70757,0.7695972176,byzantine agreement protocol
+17978,0.9142982382,cosmological simulations
+71055,0.768860228,cooperative multiagent
+169385,0.5406557515,fuzzy interpolation
+1567,0.97009876,jpeg compression
+90425,0.7203018275,mouse pointing
+31173,0.8771768051,prefix free
+123988,0.6402409688,line drawing images
+93897,0.711688429,significantly shorter
+5638,0.9536390678,mutual inductance
+25472,0.8926099279,electronic textbook
+144346,0.59464016,insertion method
+69141,0.7737986496,mail messages
+124958,0.638127185,canonical signed
+8838,0.9420117638,concentric tube
+14735,0.923767281,medical image registration
+171054,0.5370025954,dynamic events
+119066,0.6514254711,thermal variations
+53442,0.8163074279,industrial companies
+115729,0.6593443987,restricted delaunay triangulation
+40461,0.8528618798,data warehouse striping
+156442,0.5683837455,dynamic load balancing algorithms
+2610,0.9655725184,gate oxide breakdown
+163184,0.5539578573,heterogeneous nodes
+144204,0.5949487633,multi destination
+112108,0.6681492089,sigmoidal networks
+163335,0.5536411362,nfr framework
+62569,0.7912207949,view planning
+92793,0.7142808297,alternating machines
+115338,0.6603642715,passenger demand
+164139,0.5518659878,backward channel
+39363,0.8557508166,electrostatic discharge protection
+51496,0.8219491207,industrial environments
+11832,0.9323496831,bezier curves
+85131,0.7335944241,syntactic properties
+80685,0.7446324102,scale multiplication
+17685,0.9151752702,cervical spine
+122572,0.6434676467,wireless cdma
+131264,0.6239031514,facial color
+136278,0.6125317434,integration methods
+98721,0.7002996928,effectively suppress
+2085,0.9677874355,skin lesion
+44348,0.8422310851,wcet estimates
+73584,0.7622989589,audio fingerprints
+54488,0.8133619522,small genus
+159196,0.5625212283,scaling invariant
+24608,0.8949578961,cluster validation
+111788,0.6689904702,induction generators
+80711,0.7445612843,algorithmic methods
+143265,0.5969609652,linear algebra methods
+72698,0.7646184513,yeast saccharomyces cerevisiae
+133849,0.6178594935,commonly utilized
+103866,0.6878607178,non equilibrium thermodynamics
+49112,0.8287156783,simultaneous multithreaded processors
+132567,0.6208652068,data path circuits
+178343,0.5216977741,mixed level simulation
+187604,0.5024035839,intermediate models
+179887,0.5186916764,excessive noise
+55165,0.8113540861,open source project
+20896,0.9059169922,variable binding
+11071,0.9349028199,lawful interception
+184101,0.5097275297,texture based visualization

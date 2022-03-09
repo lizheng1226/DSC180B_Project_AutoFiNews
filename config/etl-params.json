@@ -1,0 +1,16 @@
+{
+    "apple_csv": "data/etl_data/AAPL.csv",
+    "output_apple": "data/etl_data/new_apple.csv",
+    "data": "data/etl_data/new_apple.csv",
+    "output_AAPL": "data/etl_data/stock_pirce.csv",
+    "path": "data/apple_news_1/",
+    "output_df": "data/etl_data/output_train_df.csv",
+    "dates": "data/etl_data/dates.csv",
+    "intermediate_df": "data/etl_data/apple_label.csv",
+    "real_train_df": "data/etl_data/real_train_df.csv"
+
+
+
+
+
+}
