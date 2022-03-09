@@ -34,7 +34,8 @@ def get_stock(fp):
     stock = pd.read_csv(fp)
     return stock
 
-def plot_stock(col):
-    df = get_stock()
-    plt.plot(df.columns[1:], [float(i) for i in df.iloc[col, 1:]])
-    plt.show()
+def plot_stock(fp):
+    df = get_stock(fp)
+    for i in [0, 1, 3, 5, 7]:
+        plt.plot(df.columns[1:], [float(i) for i in df.iloc[i, 1:]])
+        plt.show()

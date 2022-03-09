@@ -27,7 +27,7 @@ from etl import *
 from doc2vec_lstm_model import *
 from doc2vec_lstm_model2 import *
 
-# from baseline_model import *
+from baseline_model import *
 # from autophrase_model import *
 # from eda import *
 
@@ -45,7 +45,7 @@ def main(targets):
     doc2vec_lstm_config = json.load(open('config/lstm_model-params.json'))
     doc2vec_lstm_config2 = json.load(open('config/lstm_model2-params.json'))
 
-    # baseline_config = json.load(open('config/baseline-params.json'))
+    baseline_config = json.load(open('config/baseline-params.json'))
     # autophrase_config = json.load(open('config/autophrase-params.json'))
     # eda_config = json.load(open('config/eda-params.json'))
     
@@ -91,8 +91,9 @@ def main(targets):
 
 
 
-    # if "baseline_model" in targets:
-    #     bag_of_words_prediction(**baseline_config)
+    if "baseline_model" in targets:
+        # bag_of_words_prediction(**baseline_config)
+        run_all()
 
 
     # if autophrase_model in targets:

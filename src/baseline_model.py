@@ -4,8 +4,10 @@ import re
 import numpy as np
 import heapq
 from nltk.corpus import stopwords
-import PyPDF2
-import pdfplumber
+import nltk
+nltk.download('stopwords')
+# import PyPDF2
+# import pdfplumber
 from sklearn.metrics import f1_score
 import os
 from nltk.tokenize import word_tokenize 
@@ -15,15 +17,15 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 
 
-def load_pos(positive_wordbank):
-    df_pos = pd.read_csv(positive_wordbank, header=None)
+def load_pos():
+    df_pos = pd.read_csv('data/baseline_data/LoughranMcDonald_Positive.csv', header=None)
     df_pos = df_pos.drop(1, axis=1)
     df_pos.columns = ['positive_words']
     df_pos['positive_words'] = df_pos['positive_words'].apply(lambda x: x.lower())
     return df_pos
 
-def load_neg(negative_wordbank):
-    df_neg = pd.read_csv(negative_wordbank, header=None)
+def load_neg():
+    df_neg = pd.read_csv('data/baseline_data/LoughranMcDonald_Negative.csv', header=None)
     df_neg = df_neg.drop(1, axis=1)
     df_neg.columns = ['negative_words']
     df_neg['negative_words'] = df_neg['negative_words'].apply(lambda x: x.lower())
@@ -70,4 +72,9 @@ def bag_of_words_prediction(filepath, n):
         return 1
     else:
         return 0
+
+def run_all():
+    for filename in os.listdir("data/apple_news_1/"):
+        return bag_of_words_prediction("data/apple_news_1/" + filename, 2000)
+
 
