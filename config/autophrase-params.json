@@ -1,0 +1,8 @@
+{
+    "positive_wordbank": "data/autophrase_data/LoughranMcDonald_Positive.csv",
+    "negative_wordbank": "data/autophrase_data/LoughranMcDonald_Negative.csv",
+    "word": "",
+    "fps": "",
+    "clf": "",
+    "stock": ""
+}

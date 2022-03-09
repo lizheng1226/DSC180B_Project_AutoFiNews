@@ -1,0 +1,6 @@
+{
+    "positive_wordbank": "data/baseline_data/LoughranMcDonald_Positive.csv",
+    "negative_wordbank": "data/baseline_data/LoughranMcDonald_Negative.csv",
+    "filepath": "",
+    "n": ""
+}
