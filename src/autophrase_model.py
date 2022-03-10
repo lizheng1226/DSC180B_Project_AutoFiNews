@@ -20,14 +20,14 @@ import seaborn as sns
 from sklearn import svm
 
 def load_pos():
-    df_pos = pd.read_csv('data/baseline_data/LoughranMcDonald_Positive.csv', header=None)
+    df_pos = pd.read_csv('data/LoughranMcDonald_Positive.csv', header=None)
     df_pos = df_pos.drop(1, axis=1)
     df_pos.columns = ['positive_words']
     df_pos['positive_words'] = df_pos['positive_words'].apply(lambda x: x.lower())
     return df_pos
 
 def load_neg():
-    df_neg = pd.read_csv('data/baseline_data/LoughranMcDonald_Negative.csv', header=None)
+    df_neg = pd.read_csv('data/LoughranMcDonald_Negative.csv', header=None)
     df_neg = df_neg.drop(1, axis=1)
     df_neg.columns = ['negative_words']
     df_neg['negative_words'] = df_neg['negative_words'].apply(lambda x: x.lower())
@@ -51,7 +51,6 @@ def clean_stock(file):
     l = [1 if item == 'True' else 0 for item in l]
     return l
 
-
 def autophrase_model_train(fps, stock_file):
     stock = clean_stock(stock_file)
 
@@ -64,7 +63,7 @@ def autophrase_model_train(fps, stock_file):
         big_df[i] = df['weighted_score']
     
     clf = svm.SVC()
-    clf.fit(big_df, stock)
+    clf.fit(big_df.transpose(), stock)
     return clf
 
 def autophrase_model_test(fps, stock_file):
@@ -78,7 +77,9 @@ def autophrase_model_test(fps, stock_file):
         df['weighted_score'] = df['score'] * df['coefficient']
         big_df[i] = df['weighted_score']
     
-    return clf.predict(big_df)
+    return clf.predict(big_df.transpose())
+
+
 
 
 
