@@ -1,11 +1,5 @@
 {
-    "fps": ['data/autophrase_data/AutoPhrase_multi-words_apple.txt', 
-            'data/autophrase_data/AutoPhrase_multi-words_apple_2.txt', 
-            'data/autophrase_data/AutoPhrase_multi-words_apple_3.txt',
-            'data/autophrase_data/AutoPhrase_multi-words_apple_4.txt', 
-            'data/autophrase_data/AutoPhrase_multi-words_apple_5.txt', 
-            'data/autophrase_data/AutoPhrase_multi-words_apple_6.txt',
-            'data/autophrase_data/AutoPhrase_multi-words_apple_7.txt', 
-            'data/autophrase_data/AutoPhrase_multi-words_apple_8.txt'],
+    "fps": "AutoPhrase_multi-words",
     "stock_file": "data/etl_data/AAPL.csv"
 }
+

@@ -3,8 +3,6 @@ import nltk
 import re
 import numpy as np
 import heapq
-import nltk
-nltk.download('stopwords')
 from nltk.corpus import stopwords
 # import PyPDF2
 # import pdfplumber
@@ -56,7 +54,7 @@ def autophrase_model_train(fps, stock_file):
 
     big_df = pd.DataFrame()
     for i in range(len(fps)):
-        df = pd.read_fwf(fps[i], header=None)
+        df = pd.read_csv(fps[i], sep="\t", header=None)
         df.columns = ['score', 'phrase']
         df['coefficient'] = df['phrase'].apply(add_coefficient)
         df['weighted_score'] = df['score'] * df['coefficient']
@@ -71,7 +69,7 @@ def autophrase_model_test(fps, stock_file):
 
     big_df = pd.DataFrame()
     for i in range(len(fps)):
-        df = pd.read_fwf(fps[i], header=None)
+        df = pd.read_csv(fps[i], sep="\t", header=None)
         df.columns = ['score', 'phrase']
         df['coefficient'] = df['phrase'].apply(add_coefficient)
         df['weighted_score'] = df['score'] * df['coefficient']

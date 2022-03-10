@@ -26,10 +26,10 @@ from test import *
 from etl import *
 from doc2vec_lstm_model import *
 from doc2vec_lstm_model2 import *
-
 from baseline_model import *
 from autophrase_model import *
 from eda import *
+# from bert import *
 
 
 
@@ -48,6 +48,7 @@ def main(targets):
     baseline_config = json.load(open('config/baseline-params.json'))
     autophrase_config = json.load(open('config/autophrase-params.json'))
     eda_config = json.load(open('config/eda-params.json'))
+    bert_config = json.load(open('config/bert-params.json'))
     
     
     
@@ -71,12 +72,12 @@ def main(targets):
     if "doc2vec_lstm_model" in targets:
         # tokenize_text(**doc2vec_lstm_config)
         create_d2v_model(**{k:doc2vec_lstm_config[k] for k in ("DM", "DM_MEAN", "VECTOR_SIZE", "WINDOW", "MIN_COUNT", "WORKERS", "ALPHA", "MIN_ALPHA",
-                    "real_train_df", "MAX_FEATURES", "MAX_SEQUENCE_LENGTH", "TEST_SIZE", "RANDOM_STATE",
+                    "real_train_df", "MAX_FEATURES", "MAX_SEQUsENCE_LENGTH", "TEST_SIZE", "RANDOM_STATE",
                     "output_d2v_model", "df") if k in doc2vec_lstm_config})
-        
 
 
         create_lstm_model(**{k:doc2vec_lstm_config[k] for k in ("output_d2v_model", "batch_size", "epochs", "verbose", "df", "X", "model_accuracy", "model_loss", "confusion_matrix_1") if k in doc2vec_lstm_config})
+
 
 
     if "doc2vec_lstm_model2" in targets:
