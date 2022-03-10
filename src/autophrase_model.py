@@ -3,9 +3,11 @@ import nltk
 import re
 import numpy as np
 import heapq
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
-import PyPDF2
-import pdfplumber
+# import PyPDF2
+# import pdfplumber
 from sklearn.metrics import f1_score
 from sklearn.metrics import confusion_matrix
 import os
@@ -17,17 +19,15 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn import svm
 
-
-
-def load_pos(positive_wordbank):
-    df_pos = pd.read_csv(positive_wordbank, header=None)
+def load_pos():
+    df_pos = pd.read_csv('data/baseline_data/LoughranMcDonald_Positive.csv', header=None)
     df_pos = df_pos.drop(1, axis=1)
     df_pos.columns = ['positive_words']
     df_pos['positive_words'] = df_pos['positive_words'].apply(lambda x: x.lower())
     return df_pos
 
-def load_neg(negative_wordbank):
-    df_neg = pd.read_csv(negative_wordbank, header=None)
+def load_neg():
+    df_neg = pd.read_csv('data/baseline_data/LoughranMcDonald_Negative.csv', header=None)
     df_neg = df_neg.drop(1, axis=1)
     df_neg.columns = ['negative_words']
     df_neg['negative_words'] = df_neg['negative_words'].apply(lambda x: x.lower())
@@ -45,7 +45,16 @@ def add_coefficient(word):
     else:
         return 0
 
-def autophrase_model_train(fps, stock):
+def clean_stock(file):
+    df = pd.read_csv(file)
+    l = list(df.iloc[2, 1:])
+    l = [1 if item == 'True' else 0 for item in l]
+    return l
+
+
+def autophrase_model_train(fps, stock_file):
+    stock = clean_stock(stock_file)
+
     big_df = pd.DataFrame()
     for i in range(len(fps)):
         df = pd.read_fwf(fps[i], header=None)
@@ -58,7 +67,9 @@ def autophrase_model_train(fps, stock):
     clf.fit(big_df, stock)
     return clf
 
-def autophrase_model_test(fps, clf):
+def autophrase_model_test(fps, stock_file):
+    clf = autophrase_model_train(fps, stock_file)
+
     big_df = pd.DataFrame()
     for i in range(len(fps)):
         df = pd.read_fwf(fps[i], header=None)

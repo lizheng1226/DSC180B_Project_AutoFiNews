@@ -28,8 +28,8 @@ from doc2vec_lstm_model import *
 from doc2vec_lstm_model2 import *
 
 from baseline_model import *
-# from autophrase_model import *
-# from eda import *
+from autophrase_model import *
+from eda import *
 
 
 
@@ -46,8 +46,8 @@ def main(targets):
     doc2vec_lstm_config2 = json.load(open('config/lstm_model2-params.json'))
 
     baseline_config = json.load(open('config/baseline-params.json'))
-    # autophrase_config = json.load(open('config/autophrase-params.json'))
-    # eda_config = json.load(open('config/eda-params.json'))
+    autophrase_config = json.load(open('config/autophrase-params.json'))
+    eda_config = json.load(open('config/eda-params.json'))
     
     
     
@@ -96,16 +96,19 @@ def main(targets):
         run_all()
 
 
-    # if autophrase_model in targets:
-    #     add_coefficient(...)
-    #     autophrase_model_train(...)
-    #     autophrase_model_test(...)
+    if "autophrase_model" in targets:
+        autophrase_model_train(**autophrase_config)
+        autophrase_model_test(**autophrase_config)
 
 
-    # if eda in targets:
-    #     ...
-    #     ...
-    #     ...
+    if "eda" in targets:
+        pos_words()
+        neg_words()
+        word_cloud_pos()
+        word_cloud_neg()
+        get_stock(**eda_config)
+        plot_stock(**eda_config)
+
 
 
 
