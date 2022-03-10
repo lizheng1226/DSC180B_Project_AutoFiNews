@@ -1,0 +1,848 @@
+0.9628743774	apple music
+0.9568332814	logic pro
+0.9535824014	business insider
+0.9519930739	apple watch
+0.9426433270	macbook air
+0.9403628408	macbook pro
+0.9316692433	gross profit
+0.9299902462	business wire
+0.9258893804	cash flow
+0.9251641657	apple pay
+0.9217689272	app store
+0.9159755065	final cut pro
+0.9147939254	emmy awards
+0.9106153698	plug power
+0.9101629888	shares outstanding
+0.9055687545	apple tv
+0.9026728057	creative studios
+0.9012076700	net income
+0.8971607848	classical music
+0.8933175406	nso group
+0.8932321107	apple inc
+0.8878133052	payout ratio
+0.8839058911	tim cook
+0.8798885424	apple store
+0.8712269482	south china morning post
+0.8710746522	operating income
+0.8667716385	demand outlook
+0.8647829855	net margin
+0.8642431871	recent developments
+0.8620537814	key statistics
+0.8582361858	luca maestri
+0.8545102552	yahoo finance
+0.8523930772	quote lookup
+0.8489527195	m1 pro
+0.8487003888	depositary receipts
+0.8480641950	machine learning
+0.8477872313	debt capital
+0.8447032916	cad hedged
+0.8422385667	ted lasso
+0.8418877672	ipad mini
+0.8405602815	summary company outlook chart conversations statistics
+0.8405555648	valuation analysis
+0.8402930772	recently viewed
+0.8347426559	growth analysis
+0.8342149152	management assessment
+0.8339482262	apple news
+0.8337237418	risk analysis
+0.8334268435	greg joswiak
+0.8333662353	price book
+0.8324692677	holders sustainability
+0.8320071863	canadian depositary receipts
+0.8319089225	spatial audio
+0.8309268435	apaplep incp
+0.8257786808	argus investors
+0.8248434334	recommended stories
+0.8145466430	pride edition
+0.8137009639	current ratio
+0.8126131387	air pods
+0.8089678741	m1 max
+0.8083081754	gaap eps
+0.8068139967	peer group
+0.8050236795	numbers enhance
+0.8043028876	market cap
+0.7982659767	financial strength analysis
+0.7968883682	price sales
+0.7954930144	industry analysis
+0.7934829716	financial strength
+0.7901067671	q1 q2 q3 q4
+0.7866255595	apple arcade
+0.7865796242	q3 q4 q1 q2 q3 q4
+0.7861617308	analyst's notes
+0.7845796242	q1 q2 q3 q4 q1 q2
+0.7838719054	ios developers
+0.7833922841	hagens berman
+0.7830619534	motley fool
+0.7829234073	argus research companynasdaq
+0.7819976596	high low
+0.7811921665	operating margin
+0.7770974839	weight weight
+0.7769956140	slashed dividend
+0.7764250708	fiscal 4q21
+0.7755806584	industry leading
+0.7745081339	video investor's business daily american city
+0.7744831387	historical data proﬁle financials analysis options
+0.7732798066	more value more growth
+0.7700492275	according media
+0.7686708738	yahoo finance video
+0.7686018165	macos monterey
+0.7666241375	neural engine
+0.7661331387	symbqoluote lookuplast price change change
+0.7655027635	stocks jumped today
+0.7653602900	investor's business daily motley fool
+0.7652069812	business essentials
+0.7646799979	argus analyst report
+0.7646599168	argus research
+0.7639115384	bloom why carnival corporation
+0.7625373454	individual investment
+0.7603418242	homekit secure video
+0.7601984836	news partner program
+0.7580359261	financial strength rating
+0.7579922634	leadership franchises
+0.7561545673	debt equity ratio
+0.7533763390	finance video motley fool motley fool
+0.7521614074	report created oct
+0.7491925714	the argus research group
+0.7477607664	information contained
+0.7473589498	business investor's business daily motley fool
+0.7472503694	american city business investor's business daily
+0.7458213697	buyback authorization
+0.7445602949	finance home watchlists
+0.7435628955	clear winner
+0.7428128955	beats headphones
+0.7385396647	p e
+0.7382544141	pro max
+0.7370489769	s & p 500
+0.7341734648	m1 chip
+0.7294206328	sector rating
+0.7288096541	screeners yahoo finance plus markets
+0.7287384234	announces ﬁrst states signed
+0.7286667970	finance home watchlists my portfolio cryptocurrencies
+0.7283521975	share repurchase
+0.7282499618	driver’s licenses
+0.7277051878	argus officers
+0.7262420533	yahoo finance video motley fool yahoo
+0.7249670351	portfolio management
+0.7230107165	month period
+0.7224420046	story continues
+0.7219503866	rating sell hold buy
+0.7210357851	management provided
+0.7187105396	screeners yahoo finance plus maurkkertasine
+0.7184414793	products include
+0.7182988367	relative underperformance
+0.7170792804	growth rate
+0.7166701677	fy p e
+0.7153012015	including airpods
+0.7150896812	core gpu
+0.7134916650	at & t
+0.7132701415	earnings totaled
+0.7106715924	argus research co
+0.7070384332	rising trend
+0.7065878875	touch id
+0.7063594829	plus maurkkertasine
+0.7058639292	share repurchase authorization
+0.7055772381	symbol last price change change
+0.7017375251	financial information
+0.6965803182	fy22 forecast
+0.6938792222	nasdaqgs nasdaqgs real time price
+0.6925732887	fiscal 2q21
+0.6924032556	other fuel cell stock popped today
+0.6921993757	global hit comedy series
+0.6917832243	american city business
+0.6874541979	high quality
+0.6864555068	year eps growth forecast
+0.6833559462	unified memory
+0.6814607055	www.apple.com newsroom
+0.6810494792	fiscal 1q21
+0.6802524654	past performance
+0.6797786235	rated stocks
+0.6770671221	apple’s senior vice
+0.6760102036	manufactures smartphones
+0.6739769362	of warnermedia stake february
+0.6719292063	battery life
+0.6704772943	previous generation
+0.6689903498	hand corner
+0.6669204240	news partner
+0.6655645410	eps forecast
+0.6641903498	10w 9m
+0.6635588259	aapl rose
+0.6614202659	ipad pro
+0.6567908874	losses arising
+0.6538515937	market lagging
+0.6517551752	apple watch series
+0.6504762248	respective owners.view source version on businesswire.com
+0.6501402454	dividend hike
+0.6485518398	reflects sector rotation
+0.6480208874	reflects previous trading
+0.6476967423	some ev here's
+0.6475402454	stock rises
+0.6468899503	core cpu
+0.6461845454	fiscal 3q21
+0.6460127307	quarterly dividend
+0.6449963020	neo exchange
+0.6438308657	long term
+0.6419467783	report created
+0.6385380055	a 12
+0.6342467625	target price
+0.6339605616	press release features multimedia
+0.6330408874	nfts bring live event tickets
+0.6320476164	research co
+0.6320085571	risk adjusted
+0.6317451623	apple pencil
+0.6311658874	shareholder return
+0.6304976367	welcomes people
+0.6252130415	you want a rock solid
+0.6243334702	52 1 22
+0.6196176632	growth forecast
+0.6167619853	some ev
+0.6162883180	homekit secure
+0.6151994799	974 2042
+0.6135551352	inch macbook pro
+0.6131974747	content providers
+0.6074186072	screeners yahoo finance
+0.6048501869	sell rated
+0.6046920779	ﬁnance.yahoo.com news
+0.6032286553	www.businesswire.com news home
+0.5970577596	apple business essentials
+0.5949080062	+ 0.22
+0.5925149449	buy rated
+0.5921972900	html 2
+0.5914903196	current prices
+0.5907978852	cut pro
+0.5907644726	hold rated
+0.5893859780	return on equity
+0.5891972900	html 4
+0.5872750445	this report
+0.5872584292	source version on businesswire.com
+0.5867958038	gaap earnings
+0.5866256277	split adjusted
+0.5865519987	year over year
+0.5851745307	html 1
+0.5847907901	+ 6.98
+0.5842804413	crashed f 35c jet salvage mission
+0.5799732130	@ apple.com
+0.5776838701	jan 28
+0.5774892588	ﬁrst states signed
+0.5745169160	+ 11.11
+0.5740774751	worldwide marketing
+0.5727764159	billion in fy19
+0.5689608000	m1 pro and m1 max
+0.5681387444	comedy series
+0.5677323028	apple’s five software platforms ios
+0.5661407259	introduces iphone 13
+0.5656618556	html 3
+0.5641140162	rated stock
+0.5640125628	canadian depositary
+0.5627358973	magazine selects
+0.5616911868	gaap results
+0.5602198475	2021 page
+0.5595489541	unveils iphone 13 pro
+0.5590886835	170.70 + 0.37
+0.5522347788	apple’s senior vice president of
+0.5522062345	cibc launches ﬁve more
+0.5516131816	forward looking
+0.5492295325	42 1 22
+0.5475877659	motley fool yahoo finance video
+0.5469431307	found it.note to editors
+0.5460907443	expected to underperform
+0.5455900760	f o r
+0.5454324495	iphone 12
+0.5443766534	sends osprey to south china sea
+0.5442493737	gets too …
+0.5439752454	amc stock rises on energy
+0.5418062509	aapl vs
+0.5417678219	ipados 15
+0.5408841365	september 14
+0.5371491161	iphone 13
+0.5356398397	$ in millions
+0.5346634226	set forth
+0.5342627868	today at apple creative studios
+0.5311959847	@ apple.com 408
+0.5310308385	5 yr
+0.5301413721	currency in usd related quotes
+0.5284971296	add to watchlist visitors trend 2w
+0.5265907443	flow from operations
+0.5259591830	head of worldwide
+0.5250794806	lucid and tesla
+0.5237797530	non gaap
+0.5231442006	o ur
+0.5231442006	o ther
+0.5228159122	expected to perform
+0.5223573702	april 2019
+0.5221684622	100 percent
+0.5211068258	ios 15
+0.5206207975	billion at
+0.5177590402	below current
+0.5169701094	solid in drag races between slashed
+0.5159789817	apple’s senior
+0.5132400445	close to you want a rock
+0.5125902711	end of fy17
+0.5114777871	© 2021 argus research companynasdaq
+0.5113639262	ups boosts dividend by 1
+0.5100309092	guarantee of future
+0.5098570577	think tank says on twitter
+0.5094618482	mac desktop and mobile pcs
+0.5070988396	copied or distributed
+0.5056736766	per share
+0.5056246503	cibc launches ﬁve more canadian
+0.5053063058	revolutionized personal technology with
+0.5053033624	all rights reserved
+0.5044888792	2018 2019
+0.5013832439	2018 2019 2020
+0.5008924276	other reports
+0.5008224693	iphone ®
+0.4997776491	empower people with breakthrough services including
+0.4995790525	most advanced
+0.4993054835	new at & t
+0.4961053502	52 week
+0.4954198930	pro and m1 max
+0.4951627522	this press release features multimedia
+0.4950686809	musk to shut
+0.4950671513	update 3 more than 1,400 u.s
+0.4938838396	strategist says dividend lucid and tesla
+0.4934193067	in april 2018
+0.4905925481	agents and or affiliates
+0.4893199892	expected to outperform
+0.4890701998	the end of fy20
+0.4876007227	opportunity to establish or dollar average
+0.4873767582	the world in innovation with iphone
+0.4870507940	2 wildly undervalued dow
+0.4867107299	dedicated to making
+0.4862927680	spin oﬀ dividend stocks to buy
+0.4859734393	a p ple
+0.4857653620	under coverage
+0.4851173275	apple wallet
+0.4847487831	in 2018
+0.4840250065	in april 2020
+0.4835506712	next generation
+0.4826567444	pro notebook
+0.4825169102	iphone revenue
+0.4820814175	and iphone 13 mini
+0.4817150637	this report on page 6
+0.4815901671	complete or timely
+0.4810475928	i n
+0.4794988396	canceled by winter storm in northeast
+0.4790227454	well above
+0.4776521556	five year
+0.4754080919	neither morningstar nor
+0.4752722225	various consumer
+0.4749758838	$ 165
+0.4743230440	iphone 13 pro
+0.4737872769	strategist says
+0.4730530398	along with
+0.4728364359	any use of
+0.4723845873	most popular ipad
+0.4721701671	© 2021 morningstar
+0.4720597412	16 inch macbook pro
+0.4717742621	fitness +
+0.4706948414	and tvos provide seamless experiences across
+0.4693834450	more aggressive
+0.4692424313	© 2021 apple inc
+0.4690184705	the apple logo
+0.4681292433	© 2021 argus research
+0.4669908109	a split adjusted basis
+0.4662852845	faster than
+0.4662188431	magazine selects apple
+0.4652962570	this article
+0.4642305603	press release
+0.4638819711	to wall street q4 guidance
+0.4625374871	this year
+0.4624792209	full release here
+0.4623573680	the aic core equity strategy
+0.4622942884	t h e
+0.4616752850	a risk adjusted basis
+0.4614607861	second generation
+0.4612389268	buy rating
+0.4607283866	more than
+0.4603889767	apple’s more than 100,000 employees
+0.4597060836	end of fy16
+0.4595459040	please see important information about
+0.4592678003	than ever before
+0.4583508263	if at & t stock falls
+0.4576889919	10 core cpu
+0.4574213434	a twitter account
+0.4563984753	apple services include app store
+0.4563609886	apple ® today announced
+0.4550419075	o n
+0.4531836083	the argus market
+0.4513021920	do not
+0.4495840372	such as
+0.4491874196	w e
+0.4480233596	ﬁve more canadian
+0.4477557216	this page of
+0.4472251144	$ 69.4
+0.4471015957	apple tv +
+0.4463230724	morningstar and or
+0.4459856291	t to spin oﬀ warner
+0.4449258723	the end of
+0.4447725345	trades at
+0.4442149387	yellowheart ceo says
+0.4431914691	at & t stock falls on
+0.4430190157	up to
+0.4428819915	2019 2020
+0.4426942010	16 am apple
+0.4423976644	m1 pro and m1
+0.4422108672	a worldwide customer base
+0.4420945002	relative p e
+0.4419428610	and to leaving
+0.4414374580	and model portfolio
+0.4414249469	one ev of warnermedia stake february
+0.4411779091	the macintosh in 1984
+0.4411312351	apple watch series 7
+0.4388305998	this information
+0.4384311053	the tragedy of macbeth
+0.4382848597	explicit top or bottom line
+0.4376292799	other company and product names
+0.4374557144	the week’s open on
+0.4371616854	series 7
+0.4370672169	as well as
+0.4369510577	new macbook pro
+0.4367713361	an opportunity to establish or
+0.4364709466	the best products on earth
+0.4361793563	mac ®
+0.4360124745	ups boosts dividend by
+0.4357611675	a whole
+0.4352863085	and uit
+0.4333971527	watch series 7
+0.4332416171	the past five years
+0.4315829957	for additional information visit apple newsroom
+0.4315680328	the first time
+0.4315538322	inch macbook pro systems with
+0.4313292209	not warranted to
+0.4312245900	return program
+0.4311553317	amc stock rises on
+0.4308650000	apple leads
+0.4304126133	no guarantee of future results
+0.4292492831	ﬁnance.yahoo.com news apple
+0.4288781243	bottom line
+0.4275876987	per diluted share
+0.4260424313	growth stock down 76 at &
+0.4252073714	$ 50 billion
+0.4248939625	$ 5,000 from elon
+0.4248576266	12 months
+0.4230557061	of 6
+0.4224895854	the billionaire's jet says
+0.4219109680	watch series 6
+0.4209509258	designed to help
+0.4207940514	this report on page
+0.4195448517	apple ® today
+0.4190721373	even more
+0.4186044625	oil punches higher at
+0.4186008144	13 pro max
+0.4178307685	iphone 13 and iphone 13 mini
+0.4166863295	any security
+0.4164455541	no explicit top or bottom line
+0.4160226157	what's next for president biden and
+0.4147971940	new features
+0.4135581950	with friends
+0.4135204824	apple posted revenue of
+0.4130611341	the new
+0.4126575063	14 am
+0.4121285725	does not
+0.4117241421	no explicit top or
+0.4111057663	in april
+0.4098526578	a decade of outperformance
+0.4097555788	icloud +
+0.4095773773	a pple
+0.4072216878	secure video
+0.4069066389	new ways
+0.4058761788	in drag races between
+0.4053782185	the s & p 500
+0.4047557666	trademarks of
+0.4045649530	the scatterplot
+0.4032108992	two year
+0.4031127945	the same
+0.4014231519	12 month target
+0.4009212706	17 am apple
+0.3981288711	or call apple’s media helpline at
+0.3973672741	or losses
+0.3973224478	all apple devices and
+0.3968608482	in april 2019
+0.3967468543	the world’s
+0.3953743057	a risk adjusted basis over
+0.3950587313	did not
+0.3947002175	ipad ®
+0.3934019407	expected to perform in line with
+0.3932940157	a new
+0.3932517865	the prior year
+0.3925213764	17 am
+0.3925072384	i n april
+0.3905911400	to ensure
+0.3905343998	return on
+0.3899611766	derived from
+0.3883982073	an independent investment
+0.3880627423	and apple tv
+0.3873007791	past year
+0.3868957809	15 am apple
+0.3866245808	13 pro and
+0.3860551553	any damages or
+0.3854148917	a 12 month
+0.3847723815	traded at
+0.3819421177	the introduction of
+0.3811530907	the world better than
+0.3811499462	the company
+0.3796601538	documents on
+0.3773327832	a year earlier
+0.3762741073	12 month target price of
+0.3758185294	the app store
+0.3756677767	and other fuel cell
+0.3724725026	the end of fy16
+0.3720708296	in 2019
+0.3708454314	the use of
+0.3708033907	the argus research
+0.3706736477	at apple creative studios
+0.3689023708	beneﬁt from
+0.3683747940	16 inch macbook
+0.3676066739	calendar year
+0.3626913232	the new imac
+0.3626346416	real time
+0.3617160353	the consensus forecast
+0.3612673593	peripherals for
+0.3612673593	responsible for
+0.3611259446	in addition
+0.3608800251	f o r fiscal
+0.3599596433	continue to
+0.3575447009	new ipad mini
+0.3561269764	the previous
+0.3549551435	on apple music
+0.3536731671	dividend growth
+0.3534303027	the end of fiscal
+0.3522966224	the company’s
+0.3518879985	the latest
+0.3502019592	8 core
+0.3477289042	two years
+0.3475348891	ﬁrst states
+0.3467417860	year earlier
+0.3467078914	future results
+0.3458223059	all time
+0.3440730183	powered by
+0.3432499462	the market
+0.3417347796	$ 100 billion
+0.3407300979	well above current
+0.3399767590	pro systems
+0.3391057133	with m1
+0.3378979574	trademarks of apple
+0.3376262160	to life
+0.3367166015	than m1
+0.3365580950	misfires in
+0.3365050647	member of
+0.3351735712	64gb of
+0.3349162449	16 core
+0.3346204740	in 2020
+0.3335139090	dollar average
+0.3321816795	one ev
+0.3321660317	number of
+0.3319415711	a decade
+0.3307734712	16 inch
+0.3305242240	positions in
+0.3296239194	this data
+0.3289743475	the consensus forecast of
+0.3280079219	today at apple
+0.3273258410	$ 69.4 billion in
+0.3271478850	please see
+0.3271305826	to app store
+0.3252820705	inch macbook
+0.3241671566	the new ipad
+0.3234205753	access to
+0.3233545085	16 am
+0.3225188461	with up to
+0.3224450667	13 and iphone 13
+0.3211533728	with m1 pro
+0.3207667878	any other
+0.3201955931	the most
+0.3201442373	the year
+0.3197794789	billion in
+0.3180166711	the management
+0.3172930080	$ 90
+0.3164094530	quarterly dividend by
+0.3161260750	closed at
+0.3135370482	15 am
+0.3127895833	the new macbook pro
+0.3127594693	today at apple creative
+0.3119159480	12 month target price
+0.3108265551	to grow
+0.3097581569	5 year
+0.3089938252	based on
+0.3087887859	the top of
+0.3075927435	to expand
+0.3072078686	new phones
+0.3044803223	the next
+0.3032174782	subject to
+0.3031610601	information about
+0.3012599837	p e of
+0.3006456918	a split adjusted
+0.2998594964	by winter
+0.2993653825	the effect of
+0.2991797715	help users
+0.2991543864	the world
+0.2986929042	the consensus call
+0.2980700822	and services
+0.2972206374	builds on
+0.2970027106	arising from
+0.2959198244	so users
+0.2942967967	the m1
+0.2937638128	into positions in
+0.2930441377	the neo exchange
+0.2926594964	apple announces
+0.2926166193	or at
+0.2913069992	split adjusted basis
+0.2891775706	and other
+0.2870656965	1 year
+0.2855634750	per diluted
+0.2845318541	this fall
+0.2842163065	today announced
+0.2831249221	used in
+0.2830059267	the past five
+0.2821117438	in 2017
+0.2816302057	all new
+0.2813655273	a free
+0.2812878681	the information
+0.2810145229	the peer group
+0.2781087211	on 2 wildly undervalued dow
+0.2777757228	the stock
+0.2761132228	a product
+0.2748773875	the first
+0.2747904125	optimized for
+0.2735109039	the best
+0.2733131210	t h
+0.2730600122	buy rating and
+0.2718098850	than ever
+0.2709168542	the ability
+0.2708021797	the end
+0.2700513241	on iphone
+0.2669051661	to work
+0.2668843535	easy to
+0.2668016426	$ 100
+0.2655345099	the new macbook
+0.2652531855	market as
+0.2641942174	an apple
+0.2633806592	of m1
+0.2631693385	more information
+0.2623565550	ever in
+0.2619258013	13 and iphone 13 mini
+0.2615198246	more growth
+0.2611227587	of about
+0.2600407782	the mac
+0.2592346584	of fy20
+0.2582384995	to take
+0.2575052897	comes to
+0.2552709152	new products
+0.2550928785	the u.s
+0.2542058414	a larger
+0.2538754343	in 2021
+0.2530310921	available to
+0.2521292753	the recent
+0.2517101112	a p
+0.2511148651	apple raised
+0.2508102888	to bring
+0.2502295709	the right
+0.2474776748	vice president of
+0.2462142570	or other
+0.2450011273	new ways to
+0.2438413631	the globe
+0.2436925662	® today
+0.2432640371	to get
+0.2421184598	the us
+0.2416846935	a mac
+0.2405608840	with new
+0.2386569810	and icloud
+0.2376648567	working with
+0.2371414175	a a
+0.2348470767	and iphone 13
+0.2345260295	in september
+0.2343950161	in fiscal
+0.2332429281	well as
+0.2316416380	more value
+0.2313212015	and ipad
+0.2310962376	and new
+0.2307981943	in 2q21
+0.2296547006	with higher
+0.2281679910	easier to
+0.2274482050	a buy
+0.2272482217	one of
+0.2260731533	proprietary to
+0.2260310921	out of
+0.2242963646	advantage of
+0.2241400031	forecast for
+0.2231179145	interest in
+0.2223207723	premium to
+0.2220896839	by argus
+0.2217728267	new iphone
+0.2215068087	offer to
+0.2213207723	compared to
+0.2194344319	diluted share
+0.2190041057	guidance for
+0.2189498131	the full release here
+0.2183517274	way to
+0.2178516426	of total
+0.2177708494	the go
+0.2175595180	the company's
+0.2172183863	services including
+0.2158534028	tv +
+0.2158196362	apple ecosystem
+0.2156720900	research group
+0.2154846614	page 6
+0.2150945883	apple creative
+0.2144349285	comes with
+0.2138405942	on apple
+0.2114820509	consumer products
+0.2112599560	cash flow from
+0.2111826479	on device
+0.2104203468	the power
+0.2092124757	ahead of
+0.2091674936	the top
+0.2089878681	the display
+0.2083953408	to date
+0.2079718226	the argus
+0.2075975839	designed to
+0.2074679543	investors to
+0.2061565490	1 22
+0.2058614784	available in
+0.2051273893	revenue of
+0.2044230173	from argus
+0.2039611872	five years
+0.2036421040	only and
+0.2031245016	a single
+0.2019148567	result in
+0.2010529389	an opportunity to
+0.2010232226	companies in
+0.2010163475	better than
+0.2009533494	the original
+0.1998950161	the holiday
+0.1983586568	of apple watch
+0.1980765672	to create
+0.1959860875	the quarter
+0.1954309857	head of
+0.1950143618	most popular
+0.1946307304	of retail
+0.1935277542	and mac
+0.1933268386	and apple watch
+0.1926553223	to make
+0.1911218277	a rising
+0.1901857648	apple fitness
+0.1898053285	with apple
+0.1883789955	new imac
+0.1878113550	posted revenue
+0.1865587634	a year
+0.1862527542	the content
+0.1858871406	of fy18
+0.1857672383	the largest
+0.1856569209	the corporate
+0.1831654734	by apple
+0.1825156101	artist of
+0.1822427477	the aapl vs
+0.1817523883	the way
+0.1806188281	consensus call
+0.1804812669	systems with
+0.1788112593	work with
+0.1785846783	to remain
+0.1780275248	m1 pro and
+0.1779606896	performance in
+0.1776116828	the cost
+0.1774968328	to help
+0.1774776966	of ram
+0.1751054908	apple devices
+0.1750376087	and material
+0.1749971584	the sector
+0.1740275507	for apple
+0.1733181349	a risk adjusted
+0.1729629632	start to
+0.1725747107	users to
+0.1716828350	to connect
+0.1704503991	the prior
+0.1689860875	the screen
+0.1684683315	any damages
+0.1682718007	performance of
+0.1680469991	dividend by
+0.1675551610	to continue
+0.1674528391	of worldwide marketing
+0.1668841897	based in
+0.1666150125	software and
+0.1649279515	percent of
+0.1645761919	for users
+0.1644759944	the app
+0.1634278111	of apple
+0.1596278111	as to
+0.1545077353	the neo
+0.1536342280	all apple devices
+0.1534254891	universe of
+0.1527116828	and numbers
+0.1516949851	iphone 13 pro and
+0.1513916639	the 16
+0.1511897748	continues to
+0.1479858880	total of
+0.1474759944	the iphone
+0.1459544150	support for
+0.1452715505	black and
+0.1451444777	for more
+0.1445503991	in fy19
+0.1431423780	focus on
+0.1421051610	in millions
+0.1410429813	13 mini
+0.1410229250	sequentially to
+0.1400093277	to buy
+0.1396597856	for iphone
+0.1366278111	to apple
+0.1362279515	ecosystem of
+0.1351395917	demand for
+0.1340722555	and apple
+0.1329168404	graphics in
+0.1305825409	opportunity to
+0.1295884932	generation of
+0.1250722555	the apple
+0.1248453094	popular ipad
+0.1241872107	annually and
+0.1179992075	trend and
+0.1136503991	of worldwide
+0.1129503991	of fy17
+0.1123325409	close to
+0.1094033166	powerful new
+0.1083852536	the industry
+0.1066560869	the effect
+0.1057527750	in m1
+0.1055002403	eps growth
+0.1041248871	and to
+0.1031116510	with breakthrough
+0.1027527750	the past
+0.1006248871	with and
+0.0998944777	at apple
+0.0969317223	apple ®
+0.0946694467	apple posted
+0.0906533166	ways to
+0.0875236123	developers to
+0.0864986123	price of
+0.0839310944	effect of
+0.0837533753	the peer
+0.0777509944	to change
+0.0774635253	$ in
+0.0763944777	of new
+0.0758533177	new macbook
+0.0757509944	a long
+0.0750027789	line with
+0.0746804426	and or
+0.0727975343	and market
+0.0723430567	ability to
+0.0713432296	as well
+0.0654509944	in apple's
+0.0654220041	end of
+0.0651533753	of fiscal
+0.0650102536	and capital
+0.0644611444	the full
+0.0639220041	today at
+0.0625628852	the relative
+0.0620194777	the two
+0.0619721093	the s
+0.0613852536	and iphone
+0.0591841113	pro ®
+0.0569890309	introduction of
+0.0539046254	in line
+0.0491533753	for fiscal
+0.0470642010	to app
+0.0470008060	e of
+0.0419218587	use of
+0.0404126346	the consensus
+0.0389744903	top of
+0.0371049406	forecast of
+0.0341926599	add to
+0.0281049406	expected to
+0.0239652661	a relative
